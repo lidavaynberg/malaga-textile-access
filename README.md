@@ -7,3 +7,7 @@ My project for "Practical Data Science: Tools for Social Change" course.
    - Textile waste collected separately Households (EU-27, Spain)
 2. Eurostat’s demo_gind dataset 2022 https://ec.europa.eu/eurostat/databrowser/view/demo_gind__custom_20325599/default/table
    - Avarage population (EU-27, Spain)
+3. European Environment Agency - Thematic modules - Textiles https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles
+   - Consumption of clothing, footwear and household textiles EU 2022
+   - Capture rate EU 2022
+   - Textile waste generation EU 2022
