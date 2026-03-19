@@ -11,3 +11,8 @@ My project for "Practical Data Science: Tools for Social Change" course.
    - Consumption of clothing, footwear and household textiles EU 2022
    - Capture rate EU 2022
    - Textile waste generation EU 2022
+4. Instituto Geográfico Nacional 
+   - Area of the regions https://www.ign.es/web/ign/portal/comunidades-autonomas
+5. Instituto Nacional de Estadística (INE)
+   - Population by autonomous community https://www.ine.es/jaxiT3/Tabla.htm?t=67988
+   - 
