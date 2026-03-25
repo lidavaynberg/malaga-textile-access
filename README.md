@@ -15,4 +15,4 @@ My project for "Practical Data Science: Tools for Social Change" course.
    - Area of the regions https://www.ign.es/web/ign/portal/comunidades-autonomas
 5. Instituto Nacional de Estadística (INE)
    - Population by autonomous community https://www.ine.es/jaxiT3/Tabla.htm?t=67988
-   - 
+   - Household waste collection https://www.ine.es/jaxi/Datos.htm?tpx=32998
