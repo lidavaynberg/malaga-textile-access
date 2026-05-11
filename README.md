@@ -138,25 +138,25 @@ Notebooks under `notebooks/` are numbered in the order they should be run. Rende
 - Pair this access analysis with behavioral data — collection tonnage by container, awareness surveys, participation rates — to test whether low collection in well-accessed areas indicates a communication or model-fit problem.
 - Explore complementary collection models documented in EU and national reports — door-to-door, on-demand pickup, mandatory in-store take-back — and identify the urban contexts where each fits best.
 - Extend the methodology to other Spanish cities with open data (Madrid, Santa Cruz de Tenerife, Sevilla).
-- Compare cities to build a national picture as the EU EPR scheme is implemented ([expected late 2026 / early 2027](https://www.carbonfact.com/blog/policy/textile-epr-overview)).
+- Compare cities to build a national picture as the EU EPR scheme is implemented (expected late 2026 / early 2027).
 
   
 ---
 
 ## Sources & references
 
-- Cáritas / Moda re- (2025). *Situación actual del sector de la recogida y tratamiento de la ropa usada en España*. Third edition, December 2025. [https://modare.org/](https://modare.org/wp-content/uploads/2026/05/Informe-Recogida.pdf)
-- Directive (EU) 2018/851 amending Directive 2008/98/EC on waste, which introduced the obligation for separate textile collection by 1 January 2025. https://eur-lex.europa.eu/eli/dir/2018/851/oj
-- Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular — Spanish transposition of the EU framework, including the mandate for a textile EPR scheme. https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809
-- Instituto Nacional de Estadística (2025). *Atlas de Distribución de Renta de los Hogares*, 2023 edition. [https://www.ine.es/](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=ultiDatos&idp=1254735976608)
-- Ayuntamiento de Málaga. *Portal de datos abiertos* — textile containers, district and neighborhood boundaries. [https://datosabiertos.malaga.eu/](https://datosabiertos.malaga.eu/dataset/contenedores-de-ropa)
-- OpenStreetMap contributors, accessed via OSMnx, for the pedestrian network used in walking-distance calculations.
+- Cáritas / Moda re- (2025). [*Situación actual del sector de la recogida y tratamiento de la ropa usada en España*](https://modare.org/wp-content/uploads/2026/05/Informe-Recogida.pdf). Third edition, December 2025.
+- [Directive (EU) 2018/851](https://eur-lex.europa.eu/eli/dir/2018/851/oj) amending Directive 2008/98/EC on waste, which introduced the obligation for separate textile collection by 1 January 2025.
+- [Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809) — Spanish transposition of the EU framework, including the mandate for a textile EPR scheme.
+- Instituto Nacional de Estadística (2025). [*Atlas de Distribución de Renta de los Hogares*](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=ultiDatos&idp=1254735976608), 2023 edition.
+- Ayuntamiento de Málaga. [*Portal de datos abiertos*](https://datosabiertos.malaga.eu/dataset/contenedores-de-ropa) — textile containers, district and neighborhood boundaries.
+- [OpenStreetMap](https://www.openstreetmap.org/) contributors, accessed via OSMnx, for the pedestrian network used in walking-distance calculations.
 
 ---
 
 ## Author
 
-Lidia Vainberg — final project, [*Practical Data Science: Tools for Social Change*, 2026.](https://smolny.org/2025/11/27/practical-data-science-tools-for-social-change/)
+Lidia Vainberg — final project, [*Practical Data Science: Tools for Social Change*](https://smolny.org/2025/11/27/practical-data-science-tools-for-social-change/), 2026.
 
 [moda-re-2025]: https://modare.org/wp-content/uploads/2026/05/Informe-Recogida.pdf
 [eu-directive]: https://eur-lex.europa.eu/eli/dir/2018/851/oj
