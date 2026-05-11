@@ -110,7 +110,7 @@ malaga-textile-access/
 > *Section to be expanded as the code stabilizes.*
 
 ```bash
-git clone https://github.com/<user>/malaga-textile-access.git
+git clone https://github.com/lidavaynberg/malaga-textile-access.git
 cd malaga-textile-access
 pip install -r requirements.txt
 jupyter lab
@@ -119,3 +119,43 @@ jupyter lab
 Notebooks under `notebooks/` are numbered in the order they should be run. Rendered outputs are committed to the repository so the analysis can be reviewed on GitHub without running the code.
 
 *If the optional Streamlit app is built, it will be hosted at: <URL to be added>.*
+
+---
+
+## Limitations
+
+- **No tonnage data per container.** Public reporting of textile collection in Spain is aggregated at the regional level only. This project measures **access**, not actual usage.
+- **Container data has estimation gaps even at the national level.** The 2025 national report classifies all Andalucía container counts as estimates rather than direct data. This project uses primary container data shared by a local operator, which provides higher resolution than the national estimate but covers a single city only.
+- **Walking distance is an approximation.** Real behavior depends on car ownership, age, mobility, and habit, none of which are modeled here.
+- **Brand and charity points may be incomplete.** They are scraped at a single point in time; some entries may be missing or out of date.
+- **Income is measured at census-section level.** Households inside the same section can have different realities.
+
+---
+
+## Next steps
+
+- Validate the proposed interventions (new locations and/or complementary models) with a local operator or the Ayuntamiento.
+- Pair this access analysis with behavioral data — collection tonnage by container, awareness surveys, participation rates — to test whether low collection in well-accessed areas indicates a communication or model-fit problem.
+- Explore complementary collection models documented in EU and national reports — door-to-door, on-demand pickup, mandatory in-store take-back — and identify the urban contexts where each fits best.
+- Extend the methodology to other Spanish cities with open data (Madrid, Santa Cruz de Tenerife, Sevilla).
+- Compare cities to build a national picture as the EU EPR scheme is implemented (expected late 2026 / early 2027).
+
+  
+---
+
+## Sources & references
+
+- Cáritas / Moda re- (2025). *Situación actual del sector de la recogida y tratamiento de la ropa usada en España*. Third edition, December 2025. https://modare.org/
+- Directive (EU) 2018/851 amending Directive 2008/98/EC on waste, which introduced the obligation for separate textile collection by 1 January 2025. https://eur-lex.europa.eu/eli/dir/2018/851/oj
+- Instituto Nacional de Estadística (2025). *Atlas de Distribución de Renta de los Hogares*, 2023 edition. https://www.ine.es/
+- Ayuntamiento de Málaga. *Portal de datos abiertos* — textile containers, district and neighborhood boundaries. https://datosabiertos.malaga.eu/
+- OpenStreetMap contributors, accessed via OSMnx, for the pedestrian network used in walking-distance calculations.
+
+---
+
+## Author
+
+Lidia Vainberg — final project, *Practical Data Science: Tools for Social Change*, 2026.
+
+[moda-re-2025]: https://modare.org/
+[eu-directive]: https://eur-lex.europa.eu/eli/dir/2018/851/oj
