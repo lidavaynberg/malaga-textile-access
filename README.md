@@ -31,4 +31,24 @@ Concretely, this project asks:
 1. **Coverage** — what share of Málaga's population lives within walking distance (≈300 m) of any textile collection point?
 2. **Equity** — does coverage vary by neighborhood income? Are low-income districts under-served?
 3. **Operator mix** — do different types of collection points (municipal containers, social-economy operators like Cáritas/Moda re-, foundations like Humana, commercial operators like East West, brand stores like Inditex/H&M/Decathlon) reach different demographics?
-4. **Action** — where should new collection points be placed to maximize equity gains?
+44. **Action** — where should new collection points be placed to maximize equity gains?
+
+---
+
+## Data
+| Source | What it provides | Format |
+|---|---|---|
+| Limpieza de Málaga, S.A.M. (LIMASAM) | Active municipal textile container locations (May 2026) | CSV |
+| Ayuntamiento de Málaga — open data portal | Originally intended source. Found to be outdated; replaced with direct request to LIMASAM (see Notes on data quality below). | CSV, GeoJSON |
+
+| Local textile operator (private) | Up-to-date list of active containers, including non-municipal | CSV |
+| Brand store collection points | Inditex, H&M, Decathlon, Mango pilot scheme (April 2025) | Scraped from brand websites |
+| Charity collection points | Cáritas/Moda re-, Humana, Roba Amiga | Scraped + geocoded |
+| Ayuntamiento de Málaga — cartography | District and neighborhood (`barrio`) boundaries | GeoJSON |
+| INE — Atlas de Distribución de Renta de los Hogares 2023 | Average net income by census section | CSV (downloaded from INEbase) |
+| INE — Padrón | Population by census section | CSV |
+| OpenStreetMap (via OSMnx) | Pedestrian network for walking-distance computation | Graph |
+
+### A note on data quality
+
+The project initially planned to use the textile-container dataset published on Málaga's open data portal. On inspection, this dataset was found to be outdated and incomplete. Up-to-date container locations were obtained directly from LIMASAM (Limpieza de Málaga, S.A.M.), the municipal cleaning company. This discrepancy is itself a finding: open-data publication lags real-world infrastructure, which limits the public's ability to audit the textile collection system.
