@@ -1,6 +1,6 @@
-# Textile Collection Equity in Málaga
+# Textile Collection Access in Málaga
 
-> Who has access to separate textile waste collection in Málaga — and who doesn't?
+> Is Málaga's textile collection system accessible enough — and if not, what should change?
 
 A data project mapping access to textile recycling points across the city of Málaga, Spain, in the context of the EU Waste Framework Directive that obliged all Spanish municipalities to provide separate textile collection from January 1, 2025.
 
@@ -14,13 +14,13 @@ In 2024, Spain generated an estimated 922,068 tonnes of post-consumer textile wa
 
 To close this gap, the revised EU Waste Framework Directive obliged every member state to set up separate textile collection by January 1, 2025 ([Directive (EU) 2018/851][eu-directive]). In the run-up to that deadline, Spanish municipalities scaled up infrastructure rapidly: the number of dedicated textile containers grew from 21,476 in 2021 to 29,692 in 2024 (+38.3%), and public tenders for textile waste services tripled — from 18 in 2022 to 58 in 2024.
 
-More than a year after the deadline, the infrastructure is in place. But a question that was rarely asked while these decisions were being made still has no public answer:
+More than a year after the deadline, the infrastructure is in place. Looking at what was built, this project asks:
 
-**Was this new infrastructure distributed equitably across neighborhoods?**
+**Is the resulting system accessible enough for residents to actually use it?**
 
-The same national report acknowledges that "the inequality observed in tonnes collected is also reproduced in collection infrastructure" — but documents this only at the regional (autonomous community) level. No published study has examined whether containers within a single Spanish city reach all residents equally, regardless of income.
+Public reporting at national and regional level tracks tonnes collected — not how reachable the system is from a citizen's doorstep. The same national report acknowledges that "the inequality observed in tonnes collected is also reproduced in collection infrastructure," but documents this only at the regional (autonomous community) level. No published study has examined whether containers within a single Spanish city reach all residents within a reasonable walking distance, or whether access is distributed evenly across neighborhoods.
 
-This project investigates that question for Málaga. Andalucía as a whole collects only 2.01 kg per capita per year — 18% below the national average — and the EU framework warns that circular transitions must "not exacerbate existing inequalities." If access to recycling has become a privilege of wealthier districts, the textile transition is failing its social mandate.
+This project investigates accessibility for Málaga from two angles: **physical reach** (how much of the population lives close to a collection point) and **equity** (whether that reach varies systematically with neighborhood income). Andalucía as a whole collects only 2.01 kg per capita per year — 18% below the national average — and if a low collection rate coexists with high physical accessibility, the bottleneck likely lies elsewhere: in communication, behavior, or in the fit of the container-based model itself.
 
 ---
 
@@ -29,19 +29,19 @@ This project investigates that question for Málaga. Andalucía as a whole colle
 Concretely, this project asks:
 
 1. **Coverage** — what share of Málaga's population lives within walking distance (≈300 m) of any textile collection point?
-2. **Equity** — does coverage vary by neighborhood income? Are low-income districts under-served?
-3. **Operator mix** — do different types of collection points (municipal containers, social-economy operators like Cáritas/Moda re-, foundations like Humana, commercial operators like East West, brand stores like Inditex/H&M/Decathlon) reach different demographics?
-44. **Action** — where should new collection points be placed to maximize equity gains?
+2. **Equity of access** — is that coverage distributed evenly across neighborhoods, or does it vary systematically with income?
+3. **System fit** — given the level of access observed, is the container-based model on its own enough to reach the EU's separate-collection targets, or are complementary approaches needed (awareness campaigns, door-to-door schemes, on-demand pickup, in-store collection)?
+4. **Action** — where, and through which type of intervention, can access be improved most effectively?
 
 ---
 
 ## Data
+
 | Source | What it provides | Format |
 |---|---|---|
-| Limpieza de Málaga, S.A.M. (LIMASAM) | Active municipal textile container locations (May 2026) | CSV |
-| Ayuntamiento de Málaga — open data portal | Originally intended source. Found to be outdated; replaced with direct request to LIMASAM (see Notes on data quality below). | CSV, GeoJSON |
-
-| Local textile operator (private) | Up-to-date list of active containers, including non-municipal | CSV |
+| Limpieza de Málaga, S.A.M. (LIMASAM) | Active street-container locations in Málaga (March 2026 extract). Covers both operators currently holding the municipal contract — East West Productos Textiles S.L. and Fundación Pueblo para Pueblo (Humana) — combined in a single dataset, without operator-level distinction. | CSV |
+| Ayuntamiento de Málaga — open data portal | Originally intended source for municipal textile containers. Found to be outdated and incomplete; superseded by the LIMASAM extract above (see *Notes on data sources* below). | CSV, GeoJSON |
+| Local private operators (non-tendered) | None identified in Málaga so far. The street-container network appears to be fully covered by the two operators awarded the municipal tender. To be confirmed. | — |
 | Brand store collection points | Inditex, H&M, Decathlon, Mango pilot scheme (April 2025) | Scraped from brand websites |
 | Charity collection points | Cáritas/Moda re-, Humana, Roba Amiga | Scraped + geocoded |
 | Ayuntamiento de Málaga — cartography | District and neighborhood (`barrio`) boundaries | GeoJSON |
@@ -49,6 +49,73 @@ Concretely, this project asks:
 | INE — Padrón | Population by census section | CSV |
 | OpenStreetMap (via OSMnx) | Pedestrian network for walking-distance computation | Graph |
 
-### A note on data quality
+### Notes on data sources
 
-The project initially planned to use the textile-container dataset published on Málaga's open data portal. On inspection, this dataset was found to be outdated and incomplete. Up-to-date container locations were obtained directly from LIMASAM (Limpieza de Málaga, S.A.M.), the municipal cleaning company. This discrepancy is itself a finding: open-data publication lags real-world infrastructure, which limits the public's ability to audit the textile collection system.
+The project initially planned to use the textile-container dataset published on Málaga's open data portal. On inspection, this dataset was found to be outdated and incomplete. Up-to-date container locations were obtained directly from LIMASAM (Limpieza de Málaga, S.A.M.), the municipal cleaning company, in March 2026. 
+This discrepancy is itself a finding: open-data publication lags real-world infrastructure. This limits both the public's ability to audit the system and its practical usefulness — residents, tourists, and third-party tools alike depend on current data to find the nearest container, and Málaga's high share of temporary visitors makes this especially relevant.
+
+The LIMASAM extract aggregates containers from both operators currently holding the municipal contract (East West Productos Textiles S.L. and Fundación Pueblo para Pueblo / Humana) without distinguishing between them. This is acceptable for the present analysis, which focuses on access rather than on operator-level comparison.
+
+---
+
+## Approach
+
+The analysis is built in four layers:
+
+1. **Unify the collection-point dataset** — merge official, private, brand, and charity sources into one geocoded layer with provenance tagging (data source, last verified).
+2. **Compute access** — for each census section, calculate walking distance to the nearest collection point using OpenStreetMap's pedestrian network. Aggregate to neighborhoods. Report population coverage at several distance thresholds (200, 300, 500 m).
+3. **Cross with equity** — overlay coverage metrics with INE income data to identify systematic gaps. Visualize side-by-side and quantify with simple inequality measures.
+4. **Benchmark against outcomes** — compare the measured access in Málaga with regional collection performance reported in the national report (Andalucía: 2.01 kg/capita, 18% below national average) to assess whether observed access is consistent with observed collection rates, or whether the gap points to non-infrastructural causes (communication, behavior, model fit).
+
+A final optional step proposes either new collection-point locations (greedy facility-location, prioritizing under-covered areas) or complementary intervention zones (where awareness or door-to-door schemes may be more cost-effective than additional containers).
+
+### Tech stack
+
+- **Python**: pandas, geopandas, shapely, OSMnx, networkx
+- **Visualization**: Plotly (express + graph_objects)
+- **Delivery**: Jupyter notebooks with rendered visuals on GitHub. *Stretch goal: an interactive Streamlit app deployed to Streamlit Community Cloud, if time allows.*
+
+---
+
+## Repository structure
+
+```
+malaga-textile-equity/
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/              # original downloads, never modified
+│   ├── interim/          # cleaning intermediates
+│   └── processed/        # analysis-ready
+├── notebooks/
+│   ├── 01_load_containers.ipynb
+│   ├── 02_geocode_brands_charities.ipynb
+│   ├── 03_boundaries_and_income.ipynb
+│   ├── 04_coverage_analysis.ipynb
+│   └── 05_equity_metrics.ipynb
+├── src/
+│   ├── data_loaders.py
+│   ├── geo.py
+│   └── metrics.py
+├── app/                  # optional: Streamlit app if time allows
+│   └── streamlit_app.py
+└── docs/
+    └── presentation.pdf
+```
+
+---
+
+## How to run
+
+> *Section to be expanded as the code stabilizes.*
+
+```bash
+git clone https://github.com/<user>/malaga-textile-equity.git
+cd malaga-textile-equity
+pip install -r requirements.txt
+jupyter lab
+```
+
+Notebooks under `notebooks/` are numbered in the order they should be run. Rendered outputs are committed to the repository so the analysis can be reviewed on GitHub without running the code.
+
+*If the optional Streamlit app is built, it will be hosted at: <URL to be added>.*
