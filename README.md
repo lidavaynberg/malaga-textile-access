@@ -145,10 +145,11 @@ Notebooks under `notebooks/` are numbered in the order they should be run. Rende
 
 ## Sources & references
 
-- Cáritas / Moda re- (2025). *Situación actual del sector de la recogida y tratamiento de la ropa usada en España*. Third edition, December 2025. https://modare.org/
+- Cáritas / Moda re- (2025). *Situación actual del sector de la recogida y tratamiento de la ropa usada en España*. Third edition, December 2025. [https://modare.org/](https://modare.org/materiales-sensibilizacion/situacion-actual-del-sector-de-la-recogida-y-tratamiento-de-la-ropa-usada-en-espana/)
 - Directive (EU) 2018/851 amending Directive 2008/98/EC on waste, which introduced the obligation for separate textile collection by 1 January 2025. https://eur-lex.europa.eu/eli/dir/2018/851/oj
-- Instituto Nacional de Estadística (2025). *Atlas de Distribución de Renta de los Hogares*, 2023 edition. https://www.ine.es/
-- Ayuntamiento de Málaga. *Portal de datos abiertos* — textile containers, district and neighborhood boundaries. https://datosabiertos.malaga.eu/
+- - Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular — Spanish transposition of the EU framework, including the mandate for a textile EPR scheme. https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809
+- Instituto Nacional de Estadística (2025). *Atlas de Distribución de Renta de los Hogares*, 2023 edition. [https://www.ine.es/](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=ultiDatos&idp=1254735976608)
+- Ayuntamiento de Málaga. *Portal de datos abiertos* — textile containers, district and neighborhood boundaries. [https://datosabiertos.malaga.eu/](https://datosabiertos.malaga.eu/dataset/contenedores-de-ropa)
 - OpenStreetMap contributors, accessed via OSMnx, for the pedestrian network used in walking-distance calculations.
 
 ---
