@@ -80,7 +80,7 @@ A final optional step proposes either new collection-point locations (greedy fac
 ## Repository structure
 
 ```
-malaga-textile-equity/
+malaga-textile-access/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -92,7 +92,7 @@ malaga-textile-equity/
 │   ├── 02_geocode_brands_charities.ipynb
 │   ├── 03_boundaries_and_income.ipynb
 │   ├── 04_coverage_analysis.ipynb
-│   └── 05_equity_metrics.ipynb
+│   └── 05_access_and_equity_metrics.ipynb
 ├── src/
 │   ├── data_loaders.py
 │   ├── geo.py
@@ -110,8 +110,8 @@ malaga-textile-equity/
 > *Section to be expanded as the code stabilizes.*
 
 ```bash
-git clone https://github.com/<user>/malaga-textile-equity.git
-cd malaga-textile-equity
+git clone https://github.com/<user>/malaga-textile-access.git
+cd malaga-textile-access
 pip install -r requirements.txt
 jupyter lab
 ```
