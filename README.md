@@ -91,10 +91,11 @@ malaga-textile-access/
 │   └── processed/        # analysis-ready
 ├── notebooks/
 │   ├── 01_load_containers.ipynb
-│   ├── 02_geocode_brands_charities.ipynb
-│   ├── 03_boundaries_and_income.ipynb
-│   ├── 04_coverage_analysis.ipynb
-│   └── 05_access_and_equity_metrics.ipynb
+│   ├── 02_geocode_containers.ipynb
+│   ├── 03_collect_brands_charities.ipynb
+│   ├── 04_boundaries_and_income.ipynb
+│   ├── 05_coverage_analysis.ipynb
+│   └── 06_access_and_equity_metrics.ipynb
 ├── src/
 │   ├── data_loaders.py
 │   ├── geo.py
