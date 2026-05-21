@@ -467,15 +467,6 @@
     "match_class": "highway",
     "match_type": "secondary"
   },
-  "Cmo de S. Rafael 106, Málaga, Spain": {
-    "lat": 36.7071328,
-    "lon": -4.4491496,
-    "quality": "medium",
-    "method": "extra_abbrev_original",
-    "matched_address": "Camino San Rafael, San Rafael, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
-    "match_class": "highway",
-    "match_type": "secondary"
-  },
   "Camino Suarez, 10, Málaga, Spain": {
     "lat": 36.7273458,
     "lon": -4.4368601,
@@ -1751,15 +1742,6 @@
     "quality": "high",
     "method": "simplified",
     "matched_address": "2, Plaza Aparejador Federico Bermúdez, Las Chapas, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
-    "match_class": "place",
-    "match_type": "house"
-  },
-  "P.º de Antonio Machado, 64, Málaga, Spain": {
-    "lat": 36.7025402,
-    "lon": -4.4340172,
-    "quality": "high",
-    "method": "extra_abbrev_simplified",
-    "matched_address": "64, Paseo Antonio Machado, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
     "match_class": "place",
     "match_type": "house"
   },
@@ -4300,5 +4282,23 @@
     "matched_address": null,
     "match_class": null,
     "match_type": null
+  },
+  "Camino de S. Rafael 106, Málaga, Spain": {
+    "lat": 36.7071328,
+    "lon": -4.4491496,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino San Rafael, San Rafael, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Paseo de Antonio Machado, 64, Málaga, Spain": {
+    "lat": 36.7025402,
+    "lon": -4.4340172,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "64, Paseo Antonio Machado, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
   }
 }
