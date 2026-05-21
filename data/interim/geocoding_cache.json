@@ -1,0 +1,4304 @@
+{
+  "Avenida de la Paloma, 36-38, Carretera de Cádiz, 29003, Málaga, Spain": {
+    "lat": 36.7006628,
+    "lon": -4.4418372,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Avenida Paloma, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Avenida de la Paloma, 43, Carretera de Cádiz, 29003, Málaga, Spain": {
+    "lat": 36.7021443,
+    "lon": -4.4455566,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "43, Avenida Paloma, San Carlos Condote, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Conde de Guadalhorce, 6-8, Cruz de Humilladero, 29006, Málaga, Spain": {
+    "lat": 36.714611,
+    "lon": -4.4427467,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Conde de Guadalhorce, Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Federico García Lorca, 13-11, Carretera de Cádiz, 29003, Málaga, Spain": {
+    "lat": 36.7002257,
+    "lon": -4.4398829,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Federico García Lorca, 25 Años de Paz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Goya, 7, Carretera de Cádiz, 29002, Málaga, Spain": {
+    "lat": 36.7055257,
+    "lon": -4.4374114,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "7, Calle Goya, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Gran Bretaña, 2-8, Cruz de Humilladero, 29004, Málaga, Spain": {
+    "lat": 36.7037448,
+    "lon": -4.4912712,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Gran Bretaña, Intelhorce, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Héroe de Sostoa, 105, Carretera de Cádiz, 29003, Málaga, Spain": {
+    "lat": 36.7030272,
+    "lon": -4.4415761,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Héroe de Sostoa, Alaska, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Isla Cristina, 13-15, Carretera de Cádiz, 29003, Málaga, Spain": {
+    "lat": 36.702783,
+    "lon": -4.4400283,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Isla Cristina, 25 Años de Paz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle José María Jacquard, 55-53, Cruz de Humilladero, 29004, Málaga, Spain": {
+    "lat": 36.7048419,
+    "lon": -4.4921785,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle José María Jacquard, Intelhorce, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Martínez de la Rosa, 92, Bailén-miraflores, 29010, Málaga, Spain": {
+    "lat": 36.7271289,
+    "lon": -4.4402782,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "92, Calle Martínez de la Rosa, Suárez, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Eugenio Gross, 26, Distrito Centro, 29009, Málaga, Spain": {
+    "lat": 36.7237941,
+    "lon": -4.435623,
+    "quality": "medium",
+    "method": "no_district",
+    "matched_address": "Casavida Inmobiliaria, 26, Calle Eugenio Gross, Haza del Campillo, La Trinidad, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "office",
+    "match_type": "estate_agent"
+  },
+  "Abogado Federico Orellana Toledano, 20, Málaga, Spain": {
+    "lat": 36.7035407,
+    "lon": -4.4403298,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "20, Calle Abogado Federico Orellana Toledano, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Albacete, 2, Málaga, Spain": {
+    "lat": 36.7289294,
+    "lon": -4.4438144,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Albacete, Suárez, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Albacete, 9, Málaga, Spain": {
+    "lat": 36.7280426,
+    "lon": -4.444117,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Albacete, Suárez, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle del Alcalde Díaz Zafra, 10, Cruz de Humilladero, 29006, Málaga, Spain": {
+    "lat": 36.708283,
+    "lon": -4.4509935,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Alcalde Moreno Mico, Industrial Alcalde Díaz Zafra, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Alcalde Joaquín Alonso, 17, Málaga, Spain": {
+    "lat": 36.698251,
+    "lon": -4.4514364,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Alcalde Joaquín Alonso, Vistafranca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Alejandro Dumas 19, Málaga, Spain": {
+    "lat": 36.6941396,
+    "lon": -4.4573491,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "19, Calle Alejandro Dumas, Guadaljaire, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Almogía, Málaga, Spain": {
+    "lat": 36.7142375,
+    "lon": -4.453144,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Almogía, La Barriguilla, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Amarguillo, 2, Málaga, Spain": {
+    "lat": 36.7096919,
+    "lon": -4.4427488,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Amarguillo, Santa Marta, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Andarax and Camino de San Rafael, Málaga, Spain": {
+    "lat": 36.7098541,
+    "lon": -4.4435604,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Andarax, Santa Marta, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Antonio Chacon, 5, Málaga, Spain": {
+    "lat": 36.6991383,
+    "lon": -4.447867,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "5, Calle Antonio Chacón, El Torcal, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Antonio Gaudi, 2, Málaga, Spain": {
+    "lat": 36.6975515,
+    "lon": -4.456082,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Avenida Antonio Gaudí, La Luz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Archidona, 15, Málaga, Spain": {
+    "lat": 36.717768,
+    "lon": -4.45253,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Archidona, Portada Alta, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Archidona, 5, Málaga, Spain": {
+    "lat": 36.717768,
+    "lon": -4.45253,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Archidona, Portada Alta, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Aresnisca and Obsidiana, Málaga, Spain": {
+    "lat": 36.7097848,
+    "lon": -4.4552902,
+    "quality": "low",
+    "method": "second_street_of_intersection",
+    "matched_address": "Calle Obsidiana, Tiro de Pichón, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Arlanza, 9, Málaga, Spain": {
+    "lat": 36.7357776,
+    "lon": -4.4292331,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Arlanza, La Rosaleda, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Arlanzón, Málaga, Spain": {
+    "lat": 36.7371076,
+    "lon": -4.4288203,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Arlanzón, Huerta La Palma, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Armengual de la Mota 1, Málaga, Spain": {
+    "lat": 36.7173202,
+    "lon": -4.4298925,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Armengual de la Mota, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Arroyo de los Angeles, 30, Málaga, Spain": {
+    "lat": 36.7306049,
+    "lon": -4.4329321,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Avenida del Arroyo de los Ángeles, 60, Málaga, Spain": {
+    "lat": 36.7288737,
+    "lon": -4.431924,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida Arroyo de los Ángeles, Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Arroyo de los Angeles and Crisitino Martos, Málaga, Spain": {
+    "lat": 36.7306049,
+    "lon": -4.4329321,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Arroyo de los Angeles and Nuestra Señora de los Clarines, Málaga, Spain": {
+    "lat": 36.7306049,
+    "lon": -4.4329321,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Avenida de la Aurora, 63, Málaga, Spain": {
+    "lat": 36.7151287,
+    "lon": -4.4394102,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "63, Avenida de la Aurora, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de José Ortega y Gasset, 16, Málaga, Spain": {
+    "lat": 36.7080892,
+    "lon": -4.4875487,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Avenida José Ortega y Gasset, Intelhorce, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida de la Aurora, 16, Málaga, Spain": {
+    "lat": 36.7162686,
+    "lon": -4.4302441,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "16, Avenida de la Aurora, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de las Américas, 12, Málaga, Spain": {
+    "lat": 36.7143154,
+    "lon": -4.4327938,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida de las Américas, La Aurora, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida de Velázquez, 60, Málaga, Spain": {
+    "lat": 36.6985422,
+    "lon": -4.4474095,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida de Velázquez, El Torcal, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Velazquez 16, Málaga, Spain": {
+    "lat": 36.6991537,
+    "lon": -4.4471921,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "16, Avenida de Velázquez, El Torcal, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de Molière, Málaga, Spain": {
+    "lat": 36.6899255,
+    "lon": -4.4558088,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Molière - Velázquez, Avenida Molière, Mainake, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Avenida de Molière, 20, Málaga, Spain": {
+    "lat": 36.6872344,
+    "lon": -4.4537681,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Maxi Dia, 20, Avenida Molière, Mainake, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "shop",
+    "match_type": "supermarket"
+  },
+  "Ayala, 33, Málaga, Spain": {
+    "lat": 36.7085031,
+    "lon": -4.4329111,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "33, Calle Ayala, Parque Ayala, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Ayamonte, 9, Málaga, Spain": {
+    "lat": 36.6862618,
+    "lon": -4.4464114,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Ayamonte, Torre del Río, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Benagalbón, 16-26, Málaga, Spain": {
+    "lat": 36.7163594,
+    "lon": -4.4526179,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Benagalbón, Portada Alta, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Bidasoa, Málaga, Spain": {
+    "lat": 36.7377953,
+    "lon": -4.4273456,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Bidasoa, 503 Viviendas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Blas de Lezo, 19, Málaga, Spain": {
+    "lat": 36.7286832,
+    "lon": -4.4346287,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "19, Calle Blas de Lezo, Victoria Eugenia, La Trinidad (Bailén-Miraflores), Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Cabriel, 25-19, Málaga, Spain": {
+    "lat": 36.7398652,
+    "lon": -4.4302585,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Cabriel, La Palma, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Ayala 88, Málaga, Spain": {
+    "lat": 36.7052702,
+    "lon": -4.4366225,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "88, Calle Ayala, Jardín de la Abadía, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Competa 20, Málaga, Spain": {
+    "lat": 36.7194502,
+    "lon": -4.4522191,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "20, Calle Cómpeta, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Gaucin 21, Málaga, Spain": {
+    "lat": 36.6990446,
+    "lon": -4.4517697,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "21, Calle Gaucín, Vistafranca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Vicente Aleixandre, 17, Málaga, Spain": {
+    "lat": 36.6995928,
+    "lon": -4.4428411,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "17, Calle Vicente Aleixandre, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calzada de la Trinidad 8, Málaga, Spain": {
+    "lat": 36.7250266,
+    "lon": -4.4316895,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "8, Calle Calzada de la Trinidad, La Trinidad, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Camino de los Prados, 12, Málaga, Spain": {
+    "lat": 36.6989023,
+    "lon": -4.4750982,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino de los Prados, Los Prados, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Cmo de S. Rafael 106, Málaga, Spain": {
+    "lat": 36.7071328,
+    "lon": -4.4491496,
+    "quality": "medium",
+    "method": "extra_abbrev_original",
+    "matched_address": "Camino San Rafael, San Rafael, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Camino Suarez, 10, Málaga, Spain": {
+    "lat": 36.7273458,
+    "lon": -4.4368601,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "10, Camino Suárez, La Bresca, La Trinidad (Bailén-Miraflores), Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Camino Suarez, 22-24, Málaga, Spain": {
+    "lat": 36.7285647,
+    "lon": -4.4419,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino Suárez, Suárez, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Cancho Perez, Málaga, Spain": {
+    "lat": 36.7012868,
+    "lon": -4.4528572,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Cancho Pérez, Nuevo San Andrés 1, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Capitan Huelin 11, Málaga, Spain": {
+    "lat": 36.7189545,
+    "lon": -4.4364901,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "11, Calle Capitán Huelin, Haza Cuevas, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carlos Haya, 105, Málaga, Spain": {
+    "lat": 36.7229244,
+    "lon": -4.4527942,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Farmacia Matildilla, 105, Avenida Carlos de Haya, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "amenity",
+    "match_type": "pharmacy"
+  },
+  "Carlos Haya, 110, Málaga, Spain": {
+    "lat": 36.7231376,
+    "lon": -4.4525237,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "110, Avenida Carlos de Haya, La Florida, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carlos Haya, 133, Málaga, Spain": {
+    "lat": 36.7230732,
+    "lon": -4.4479335,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Carlos Haya, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Carlos Haya, 202, Málaga, Spain": {
+    "lat": 36.7253159,
+    "lon": -4.4573014,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "202, Avenida Carlos de Haya, La Florida, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carlos Haya, 58, Málaga, Spain": {
+    "lat": 36.7220845,
+    "lon": -4.4460387,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "58, Avenida Carlos de Haya, Carlos Haya, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carlos de Haya, 76, Málaga, Spain": {
+    "lat": 36.7224599,
+    "lon": -4.4479507,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "76, Avenida Carlos de Haya, Carlos Haya, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carril de la Cordobesa, 14, Málaga, Spain": {
+    "lat": 36.707278,
+    "lon": -4.4390846,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Centro Ciudadano La Princesa, 14, Carril de la Cordobesa, La Princesa, Polígono Industrial La Pelusa, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "amenity",
+    "match_type": "community_centre"
+  },
+  "Carril del Conde, 10, Málaga, Spain": {
+    "lat": 36.6955194,
+    "lon": -4.4527403,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "10, Carril Conde, La Luz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Castilla, 28-38, Málaga, Spain": {
+    "lat": 36.7200533,
+    "lon": -4.4543959,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Castilla, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Canillas de Aceituno, 3, Málaga, Spain": {
+    "lat": 36.6876334,
+    "lon": -4.4484538,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "3, Calle Canillas de Aceituno, Almudena, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Cañizares 20, Málaga, Spain": {
+    "lat": 36.7014452,
+    "lon": -4.4360708,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "20, Calle Cañizares, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Corregidor Nicolás Isidro, 9, Málaga, Spain": {
+    "lat": 36.7156372,
+    "lon": -4.4504498,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Corregidor Nicolás Isidro, Polígono Carretera de Cártama, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Francisco de Cossío, 12, Málaga, Spain": {
+    "lat": 36.6913972,
+    "lon": -4.4438552,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "12, Calle Francisco de Cossío, San Carlos, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle del Jalón 17, Málaga, Spain": {
+    "lat": 36.6866672,
+    "lon": -4.4491592,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Calle Jalón, Almudena, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Emilio Prados, 1, Málaga, Spain": {
+    "lat": 36.6986046,
+    "lon": -4.4448759,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Emilio Prados, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle del Ciprés, 20, Málaga, Spain": {
+    "lat": 36.723818,
+    "lon": -4.4480041,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Travesía del Ciprés, Carlos Haya, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Cipres and Emilio Benavent, Málaga, Spain": {
+    "lat": 36.7497616,
+    "lon": -4.5486333,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Barranca del Ciprés, Santa Rosalía-Maqueda, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29591, España",
+    "match_class": "place",
+    "match_type": "neighbourhood"
+  },
+  "Calle Juan Sebastián Bach, 1, Málaga, Spain": {
+    "lat": 36.6955016,
+    "lon": -4.4505757,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Juan Sebastián Bach, La Paz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle la Union 41, Málaga, Spain": {
+    "lat": 36.7110406,
+    "lon": -4.438941,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "41, Calle La Unión, La Unión, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle la Unión Mercantil 15, Málaga, Spain": {
+    "lat": 36.6882896,
+    "lon": -4.4500405,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Pabellón José María Martín Urbano, 15, Calle La Unión Mercantil, Almudena, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "leisure",
+    "match_type": "sports_hall"
+  },
+  "Calle la Unión Mercantil 18, Málaga, Spain": {
+    "lat": 36.6908732,
+    "lon": -4.4500229,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "18, Calle La Unión Mercantil, Los Guindos, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Milagrosa, 7-5, Málaga, Spain": {
+    "lat": 36.6926468,
+    "lon": -4.4427508,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle La Milagrosa, Santa Isabel, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Concejal Masso Roura, 9-3, Málaga, Spain": {
+    "lat": 36.7029147,
+    "lon": -4.4465556,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Concejal Masso Roura, Dos Hermanas, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Corregidor Antonio Bobadilla, 5, Málaga, Spain": {
+    "lat": 36.7113077,
+    "lon": -4.4492843,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "5, Calle Corregidor Antonio de Bobadilla, Polígono Carretera de Cártama, Los Corazones, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Corregidor Carlos Garafa, 7-5, Málaga, Spain": {
+    "lat": 36.7180259,
+    "lon": -4.4506912,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Corregidor Carlos Garafa, Polígono Carretera de Cártama, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Corregidor Francisco de Molina, 21, Málaga, Spain": {
+    "lat": 36.7126585,
+    "lon": -4.4518711,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "21, Calle Corregidor Francisco de Molina, Polígono Carretera de Cártama, Los Corazones, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Corregidor Francisco Molina 15, Málaga, Spain": {
+    "lat": 36.7128983,
+    "lon": -4.4510763,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle Corregidor Francisco de Molina, Polígono Carretera de Cártama, Los Corazones, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Corregidor José Viciana, 11-9, Málaga, Spain": {
+    "lat": 36.7170473,
+    "lon": -4.4500131,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Corregidor José Viciana, Polígono Carretera de Cártama, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Corregidor Nicolás Isidro, 23, Málaga, Spain": {
+    "lat": 36.7149683,
+    "lon": -4.4528964,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "23, Calle Corregidor Nicolás Isidro, Polígono Carretera de Cártama, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Cortijo de Echarte, 4, Málaga, Spain": {
+    "lat": 36.7018308,
+    "lon": -4.4492992,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Cortijo de Echarte, Haza de la Pesebrera, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Realenga de San Luis 4, Málaga, Spain": {
+    "lat": 36.6966702,
+    "lon": -4.4475495,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "4, Calle Realenga de San Luis, Cortijo Vallejo, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle la Crónica, 27, Málaga, Spain": {
+    "lat": 36.6864997,
+    "lon": -4.4502494,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "27, Calle La Crónica, Almudena, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Cruz del Humilladero, 8, Málaga, Spain": {
+    "lat": 36.7129889,
+    "lon": -4.4411763,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Calle Sgto. Crooke López 12, Málaga, Spain": {
+    "lat": 36.7014332,
+    "lon": -4.4397044,
+    "quality": "medium",
+    "method": "expanded_names",
+    "matched_address": "Calle Sargento Crooke López, 25 Años de Paz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Stendhal, 2, Málaga, Spain": {
+    "lat": 36.717397,
+    "lon": -4.4547153,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Stendhal, La Barriguilla, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Villanueva de Algaidas 12, Málaga, Spain": {
+    "lat": 36.6863193,
+    "lon": -4.4555648,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "12, Calle Villanueva de Algaidas, Mainake, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Deva, Málaga, Spain": {
+    "lat": 36.7392292,
+    "lon": -4.4324776,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Deva, La Palma, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Doctor Marañon, 23, Málaga, Spain": {
+    "lat": 36.7300898,
+    "lon": -4.4286481,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Centro Social de Mayores Doctor Marañon, 23, Avenida Doctor Marañón, Martiricos, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "amenity",
+    "match_type": "community_centre"
+  },
+  "Calle Dolores Ibárruri, 29, Málaga, Spain": {
+    "lat": 36.6961932,
+    "lon": -4.4639988,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "29, Calle Dolores Ibárruri, El Higueral, Polígono Industrial Santa Barbara, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Driza, 24, Málaga, Spain": {
+    "lat": 36.6977641,
+    "lon": -4.4756402,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Driza, Los Prados, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "highway",
+    "match_type": "pedestrian"
+  },
+  "Calle Dr. Muguerza Bernal, 15, Málaga, Spain": {
+    "lat": 36.7402427,
+    "lon": -4.4270469,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle Doctor Mugüerza Bernal, 503 Viviendas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Duero and Eresma, Málaga, Spain": {
+    "lat": 36.7378339,
+    "lon": -4.4307338,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Duero, Calle Duero, La Palma, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Edison, 6, Málaga, Spain": {
+    "lat": 36.7128127,
+    "lon": -4.4358874,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Edison, Los Tilos, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Encarnacion Fontiveros 4, Málaga, Spain": {
+    "lat": 36.7258148,
+    "lon": -4.4476279,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Colegio de Educación Infantil y Primaria Manuel Garbayo, 4, Calle Encarnación Fontiveros, La Encarnación, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "amenity",
+    "match_type": "school"
+  },
+  "Calle Esla 3, Málaga, Spain": {
+    "lat": 36.7412417,
+    "lon": -4.4304124,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Esla, La Palma, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Eugenio Gross, 36, Málaga, Spain": {
+    "lat": 36.7246061,
+    "lon": -4.4355004,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "36, Calle Eugenio Gross, La Trinidad, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Eugenio Gross, 60, Málaga, Spain": {
+    "lat": 36.7266416,
+    "lon": -4.4348061,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "60, Calle Eugenio Gross, La Trinidad, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Explanada de la Estacion, 6, Málaga, Spain": {
+    "lat": 36.71287,
+    "lon": -4.4308694,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Hostal Acapulco, 6, Calle Explanada de la Estación, Explanada de la Estación, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "tourism",
+    "match_type": "hostel"
+  },
+  "Fernández Fermina, 40, Málaga, Spain": {
+    "lat": 36.7127247,
+    "lon": -4.4460976,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Fernández Fermina, Núcleo General Franco, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Monseñor Oscar Romero, 3, Málaga, Spain": {
+    "lat": 36.7156501,
+    "lon": -4.4403569,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "3, Calle Monseñor Óscar Romero, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Francisco Jimenez Lomas, 14, Málaga, Spain": {
+    "lat": 36.6947445,
+    "lon": -4.4457762,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "14, Calle Francisco Jiménez Lomas, Parque Mediterráneo, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Francisco Pacheco, 11, Málaga, Spain": {
+    "lat": 36.6913753,
+    "lon": -4.4477172,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "11, Calle Francisco Pacheco, Santa Paula, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Frigiliana, 18, Málaga, Spain": {
+    "lat": 36.6954963,
+    "lon": -4.4438093,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "18, Calle Frigiliana, Parque Mediterráneo, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Gaucin and Angelillo de Triana, Málaga, Spain": {
+    "lat": 36.6986098,
+    "lon": -4.4498469,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Gaucín, Vistafranca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Gerona, 34, Málaga, Spain": {
+    "lat": 36.7133433,
+    "lon": -4.4393883,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "34, Calle Gerona, Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Godino 2-4, Málaga, Spain": {
+    "lat": 36.733035,
+    "lon": -4.4300857,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Godino, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Godino and Avenida de Luis Buñuel, Málaga, Spain": {
+    "lat": 36.7332679,
+    "lon": -4.4302273,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Godino, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Gongora, 22, Málaga, Spain": {
+    "lat": 36.7097416,
+    "lon": -4.4303632,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "22, Calle Góngora, Parque Ayala, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Gregorio de Diego, 23, Málaga, Spain": {
+    "lat": 36.6918487,
+    "lon": -4.4549045,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Gregorio Diego - Puerta Blanca, Avenida Gregorio Diego, Puerta Blanca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Gregorio de Diego, 7, Málaga, Spain": {
+    "lat": 36.6918487,
+    "lon": -4.4549045,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Gregorio Diego - Puerta Blanca, Avenida Gregorio Diego, Puerta Blanca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Heroe de Sostoa, 128, Málaga, Spain": {
+    "lat": 36.7055992,
+    "lon": -4.4382938,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Héroe de Sostoa, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Heroe de Sostoa, 14, Málaga, Spain": {
+    "lat": 36.7101894,
+    "lon": -4.4328206,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "14, Calle Héroe de Sostoa, Parque Ayala, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Heroe de Sostoa, 170, Málaga, Spain": {
+    "lat": 36.7026718,
+    "lon": -4.4422424,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "170, Calle Héroe de Sostoa, Alaska, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Héroe de Sostoa, 84, Málaga, Spain": {
+    "lat": 36.7075038,
+    "lon": -4.4360457,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "84, Calle Héroe de Sostoa, Jardín de la Abadía, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Héroe de Sostoa, 73, Málaga, Spain": {
+    "lat": 36.7061943,
+    "lon": -4.4373631,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "73, Calle Héroe de Sostoa, Jardín de la Abadía, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Héroe de Sostoa, 33, Málaga, Spain": {
+    "lat": 36.7087167,
+    "lon": -4.4341513,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "33, Calle Héroe de Sostoa, Jardín de la Abadía, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Hilera, 28, Málaga, Spain": {
+    "lat": 36.7178947,
+    "lon": -4.4279231,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Hilera, Perchel Norte, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Hipócrates, 6-8, Málaga, Spain": {
+    "lat": 36.7321261,
+    "lon": -4.4484654,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Hipócrates, Florisol, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Honduras, 6, Málaga, Spain": {
+    "lat": 36.7203878,
+    "lon": -4.4350844,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "6, Calle Honduras, Haza Cuevas, Mármoles (Cruz de Humilladero), Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Horacio Lengo, 13-15, Málaga, Spain": {
+    "lat": 36.7123821,
+    "lon": -4.4406738,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Horacio Lengo, Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Ildefonso Marzo, 26, Málaga, Spain": {
+    "lat": 36.6975735,
+    "lon": -4.4463481,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "26, Calle Ildefonso Marzo, Haza Honda, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Imperio Argentina, 1, Málaga, Spain": {
+    "lat": 36.6841643,
+    "lon": -4.4580848,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Avenida Imperio Argentina, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Imperio Argentina - Marilyn Monroe, Málaga, Spain": {
+    "lat": 36.6825174,
+    "lon": -4.4547378,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Imperio Argentina - Monroe, Avenida Imperio Argentina, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Ingeniero de la Torre Acosta, 30, Málaga, Spain": {
+    "lat": 36.7206996,
+    "lon": -4.4390052,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "30, Calle Ingeniero de la Torre Acosta, Haza Cuevas, Mármoles (Cruz de Humilladero), Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Ingeniero Díaz Petersen, 16, Málaga, Spain": {
+    "lat": 36.7036028,
+    "lon": -4.4470547,
+    "quality": "medium",
+    "method": "typo_fix",
+    "matched_address": "Calle Ingeniero Díaz Peterson, Dos Hermanas, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida de Isaac Peral, 21, Málaga, Spain": {
+    "lat": 36.6930526,
+    "lon": -4.4590092,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Avenida Isaac Peral, Guadaljaire, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle del Jalón, 26, Málaga, Spain": {
+    "lat": 36.6831622,
+    "lon": -4.4513575,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "26, Calle Jalón, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle James Joyce, 10, Málaga, Spain": {
+    "lat": 36.7220738,
+    "lon": -4.4583771,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle James Joyce, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Jane Bowles and Borodin, Málaga, Spain": {
+    "lat": 36.7444657,
+    "lon": -4.4265487,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Jane Bowles, Las Virreinas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Joaquin Gaztambide, 11, Málaga, Spain": {
+    "lat": 36.7491463,
+    "lon": -4.42587,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Cash Fresh, 11, Calle Joaquín Gaztambide, Las Virreinas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "shop",
+    "match_type": "supermarket"
+  },
+  "Calle Jose Iturbi, Málaga, Spain": {
+    "lat": 36.7261939,
+    "lon": -4.4434751,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle José Iturbi, Los Castillejos, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Jose Iturbi and Sondalezas, Málaga, Spain": {
+    "lat": 36.7261939,
+    "lon": -4.4434751,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle José Iturbi, Los Castillejos, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Alcalde Jose Luis Estrada and Galeno, Málaga, Spain": {
+    "lat": 36.7302197,
+    "lon": -4.4453752,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Alcalde José Luis Estrada, Calle Alcalde José Luis Estrada, Florisol, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Jose Ortega y Gasset, 115, Málaga, Spain": {
+    "lat": 36.7197209,
+    "lon": -4.5339168,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida José Ortega y Gasset, Pilar del Prado, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida de José Ortega y Gasset, 23, Málaga, Spain": {
+    "lat": 36.7114469,
+    "lon": -4.4441424,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "23, Avenida José Ortega y Gasset, Santa Julia, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de José Ortega y Gasset, 8, Málaga, Spain": {
+    "lat": 36.7122852,
+    "lon": -4.4434567,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Colegio de Educación Infantil y Primaria Giner de los Rïos, 8, Avenida José Ortega y Gasset, Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "amenity",
+    "match_type": "school"
+  },
+  "Calle Josep Pla, Málaga, Spain": {
+    "lat": 36.732497,
+    "lon": -4.4352484,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Josep Pla, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Juan de Robles, Málaga, Spain": {
+    "lat": 36.7233175,
+    "lon": -4.4572938,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Juan de Robles, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Juan de Valdes, 16, Málaga, Spain": {
+    "lat": 36.7201055,
+    "lon": -4.4526855,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "16, Calle Juan de Valdés, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Juan García Hortelano, 29, Málaga, Spain": {
+    "lat": 36.7336199,
+    "lon": -4.4365893,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Juan García Hortelano, Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Juanita Reina 6, Málaga, Spain": {
+    "lat": 36.7218016,
+    "lon": -4.4427884,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Juanita Reina, Nueva Málaga, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Juan Martinez Montañes, 7, Málaga, Spain": {
+    "lat": 36.6924775,
+    "lon": -4.4576424,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "7, Calle Juan Martínez Montañés, Guadaljaire, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "La Hoz and Carpio, Málaga, Spain": {
+    "lat": 36.7024493,
+    "lon": -4.4384962,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle La Hoz, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Lebrija, 6-8, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Luis Barahona de Soto, 11, Málaga, Spain": {
+    "lat": 36.6930916,
+    "lon": -4.4447707,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "11, Calle Luis Barahona de Soto, Parque Mediterráneo, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Magistrado Salvador Barbera 11, Málaga, Spain": {
+    "lat": 36.7244852,
+    "lon": -4.4440931,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "11, Calle Magistrado Salvador Barberá, Nueva Málaga, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Magistrado Salvador Barbera, 19, Málaga, Spain": {
+    "lat": 36.7267397,
+    "lon": -4.4444178,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Magistrado Salvador Barberá, Los Castillejos, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Magistrado Salvador Barbera and Pablo Luna, Málaga, Spain": {
+    "lat": 36.7240588,
+    "lon": -4.4436073,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Salvador Barberá - Escalonilla, Calle Magistrado Salvador Barberá, Nueva Málaga, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Calle de Mark Twain, 4, Málaga, Spain": {
+    "lat": 36.7344428,
+    "lon": -4.4306612,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Calle Mark Twain, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Marques Ovieco and Seguismundo Moret, Málaga, Spain": {
+    "lat": 36.7285966,
+    "lon": -4.4375149,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Marqués de Ovieco, Victoria Eugenia, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Martin de la Plaza Malaga 18, Málaga, Spain": {
+    "lat": 36.7245658,
+    "lon": -4.431681,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Farmacia Martín Navarro, 9, Plaza Bailén, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "amenity",
+    "match_type": "pharmacy"
+  },
+  "Calle Martínez de la Rosa, 25-19, Málaga, Spain": {
+    "lat": 36.72627,
+    "lon": -4.4369772,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Martínez de la Rosa, Haza del Campillo, La Trinidad (Bailén-Miraflores), Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Martínez de la Rosa, 69, Málaga, Spain": {
+    "lat": 36.7261273,
+    "lon": -4.4367006,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "69, Calle Martínez de la Rosa, Haza del Campillo, La Trinidad (Bailén-Miraflores), Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Martinez de la Rosa and Leon Felipe, Málaga, Spain": {
+    "lat": 36.7269771,
+    "lon": -4.4402773,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Martínez de la Rosa - Barón de Les, Calle Martínez de la Rosa, Suárez, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29080, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Martinez Maldonado 47, Málaga, Spain": {
+    "lat": 36.7213578,
+    "lon": -4.4354478,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "47, Calle Martínez Maldonado, Gamarra, Mármoles (Cruz de Humilladero), Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Martinez Maldonado 74, Málaga, Spain": {
+    "lat": 36.7216808,
+    "lon": -4.4422732,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "74, Calle Martínez Maldonado, Las Chapas, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Máximo Gorky, 4-8, Málaga, Spain": {
+    "lat": 36.7347711,
+    "lon": -4.435246,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Máximo Gorky, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Miraflores de los Angeles, 16, Málaga, Spain": {
+    "lat": 36.7302042,
+    "lon": -4.4421619,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Miraflores de los Ángeles, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Calle Muñoz Seca 115, Málaga, Spain": {
+    "lat": 36.7485019,
+    "lon": -4.4241521,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Muñoz Seca, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Nehemias and Juan Gris, Málaga, Spain": {
+    "lat": 36.7046963,
+    "lon": -4.4557452,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Nehemías, Cortijo de Torres, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Niño de Gloria 13, Málaga, Spain": {
+    "lat": 36.7008689,
+    "lon": -4.4489328,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "13, Calle Niño de Gloria, El Torcal, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Nuestra Señora de los Clarines, 8, Málaga, Spain": {
+    "lat": 36.7297843,
+    "lon": -4.439462,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "8, Calle Nuestra Señora de los Clarines, Parque Victoria Eugenia, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Nuestra Señora de los Clarines, 9, Málaga, Spain": {
+    "lat": 36.7305487,
+    "lon": -4.4392841,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Nuestra Señora de los Clarines, Parque Victoria Eugenia, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Núñez Vela, 2-6, Málaga, Spain": {
+    "lat": 36.7254346,
+    "lon": -4.4514797,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Núñez Vela, La Florida, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Nuñez Vela, 31, Málaga, Spain": {
+    "lat": 36.7254346,
+    "lon": -4.4514797,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Núñez Vela, La Florida, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Obispo Angel Herrera Oria, 2, Málaga, Spain": {
+    "lat": 36.7182957,
+    "lon": -4.437979,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Avenida Obispo Ángel Herrera Oria, Arroyo del Cuarto, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Oscar Esplá, 7-5, Málaga, Spain": {
+    "lat": 36.7022858,
+    "lon": -4.4567956,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Óscar Esplá, El Duende, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Oscar Wilde 2, Málaga, Spain": {
+    "lat": 36.7247929,
+    "lon": -4.4530693,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Oscar Wilde, La Florida, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Pacífico, 15, Málaga, Spain": {
+    "lat": 36.6973474,
+    "lon": -4.4378514,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle Pacífico, Pacífico, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Pacífico 18, Málaga, Spain": {
+    "lat": 36.6983487,
+    "lon": -4.4377391,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "18, Calle Pacífico, Tabacalera, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Pacifico, 35, Málaga, Spain": {
+    "lat": 36.6937428,
+    "lon": -4.440382,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "35, Calle Pacífico, San Andrés, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Pacífico, 49, Málaga, Spain": {
+    "lat": 36.6917382,
+    "lon": -4.4412597,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Finolis, 49, Calle Pacífico, San Andrés, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "amenity",
+    "match_type": "restaurant"
+  },
+  "Calle Pacífico, 57, Málaga, Spain": {
+    "lat": 36.689706,
+    "lon": -4.4427878,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "57, Calle Pacífico, San Carlos, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Palma del Rio 13, Málaga, Spain": {
+    "lat": 36.6902217,
+    "lon": -4.4540797,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "13, Calle Palma del Río, Puerta Blanca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Palmilla, 16, Málaga, Spain": {
+    "lat": 36.7378349,
+    "lon": -4.4261881,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Centro Ciudadano Valle-Inclán, 16, Avenida de la Palmilla, La Rosaleda, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "amenity",
+    "match_type": "community_centre"
+  },
+  "Palmilla, 9, Málaga, Spain": {
+    "lat": 36.7355054,
+    "lon": -4.4275112,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Avenida de la Palmilla, La Rosaleda, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Pedro Gomez Chaix, 8, Málaga, Spain": {
+    "lat": 36.7179652,
+    "lon": -4.4406977,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Pedro Gómez Chaix, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Pelayo, 3-1, Málaga, Spain": {
+    "lat": 36.7226603,
+    "lon": -4.4324587,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Pelayo, La Trinidad, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Pelayo and Cataluña, Málaga, Spain": {
+    "lat": 36.7289501,
+    "lon": -4.4147497,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Pelayo, 3, Calle Tejeros, Cristo de la Epidemia, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "office",
+    "match_type": "insurance"
+  },
+  "Juan Gómez Juanito, Málaga, Spain": {
+    "lat": 36.6951562,
+    "lon": -4.4634391,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Juan Gómez \"Juanito\", El Higueral, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Pilar Lorengar, 5, Málaga, Spain": {
+    "lat": 36.6826554,
+    "lon": -4.4517468,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Pilar Lorengar, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle del Pintor de la Fuente Grima, Málaga, Spain": {
+    "lat": 36.7047514,
+    "lon": -4.4344525,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "Calle Pintor de la Fuente Grima, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Plaza Babel, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Plaza Basconia and Pasaje Begoña, 3, Málaga, Spain": {
+    "lat": 36.72316,
+    "lon": -4.4378311,
+    "quality": "medium",
+    "method": "first_street_with_number",
+    "matched_address": "Maskom, 3, Plaza Basconia, Gamarra, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "shop",
+    "match_type": "supermarket"
+  },
+  "Plaza de Jacques Cousteau, Málaga, Spain": {
+    "lat": 36.752236,
+    "lon": -4.4285184,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "Plaza Jacques Cousteau, Las Virreinas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Plaza de Mozart 1, Málaga, Spain": {
+    "lat": 36.6943337,
+    "lon": -4.4496507,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "1, Plaza Mozart, La Paz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Plaza Moreno Villa, Málaga, Spain": {
+    "lat": 36.7062836,
+    "lon": -4.434788,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Plaza Moreno Villa, Jardín de la Abadía, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Plaza del Aparejador Federico Bermudez, 2, Málaga, Spain": {
+    "lat": 36.7210394,
+    "lon": -4.4399745,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "2, Plaza Aparejador Federico Bermúdez, Las Chapas, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "P.º de Antonio Machado, 64, Málaga, Spain": {
+    "lat": 36.7025402,
+    "lon": -4.4340172,
+    "quality": "high",
+    "method": "extra_abbrev_simplified",
+    "matched_address": "64, Paseo Antonio Machado, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Poeta Bernardo de la Torre, 9, Málaga, Spain": {
+    "lat": 36.7319793,
+    "lon": -4.431326,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Poeta Bernardo de la Torre, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Poeta Narciso Franquelo Martínez, Málaga, Spain": {
+    "lat": 36.7323592,
+    "lon": -4.4305601,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Poeta Narciso Franquelo Martínez, La Roca, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Princesa 21, Málaga, Spain": {
+    "lat": 36.7010238,
+    "lon": -4.4379417,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "21, Calle Princesa, Torres de la Serna, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Plaza Herbert Von Karajan, Málaga, Spain": {
+    "lat": 36.7432302,
+    "lon": -4.4265759,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Plaza Herbert Von Karajan, Las Virreinas, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Plaza Jose Begamin, 12, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Plaza Prudencio Jimenez, Málaga, Spain": {
+    "lat": 36.7246413,
+    "lon": -4.4375137,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Plaza Prudencio Jiménez, Haza del Campillo, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Reboul, 34, Málaga, Spain": {
+    "lat": 36.7088548,
+    "lon": -4.4414411,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Reboul, La Unión, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Rosa, 1 and Magistrado Salvador Barbera, Málaga, Spain": {
+    "lat": 36.725905,
+    "lon": -4.4242417,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Plaza Escritora Rosa Chacel, La Goleta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Calle Ruy López, 30-38, Málaga, Spain": {
+    "lat": 36.7232712,
+    "lon": -4.4550526,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Ruy López, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "San Rafael, 52, Málaga, Spain": {
+    "lat": 36.7092478,
+    "lon": -4.4490876,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "San Rafael, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Santa Rosa de Lima 11, Málaga, Spain": {
+    "lat": 36.7193642,
+    "lon": -4.4492884,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida Santa Rosa de Lima, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Santa Rosa de Lima, 22, Málaga, Spain": {
+    "lat": 36.720249,
+    "lon": -4.4498627,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Mercadona, 22, Avenida Santa Rosa de Lima, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "shop",
+    "match_type": "supermarket"
+  },
+  "Santa Rosa de Lima, 2, Málaga, Spain": {
+    "lat": 36.7193642,
+    "lon": -4.4492884,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida Santa Rosa de Lima, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Sillita de la Reina, 15, Málaga, Spain": {
+    "lat": 36.7044228,
+    "lon": -4.4470512,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle Sillita de la Reina, Dos Hermanas, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Soliva, 15, Cruz de Humilladero, 29007, Málaga, Spain": {
+    "lat": 36.7214938,
+    "lon": -4.4527448,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Soliva, Camino de Antequera, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Sondalezas, 31, Málaga, Spain": {
+    "lat": 36.7227263,
+    "lon": -4.4407626,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Sondalezas, Las Chapas, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Sondalezas and Palo Mayor, Málaga, Spain": {
+    "lat": 36.7242449,
+    "lon": -4.4417559,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Sondalezas - Colegios, Calle Sondalezas, Nueva Málaga, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Avenida de Sor Teresa Prat, 48, Málaga, Spain": {
+    "lat": 36.6974181,
+    "lon": -4.4417334,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "48, Avenida Sor Teresa Prat, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Sor Teresa Prat, 63, Málaga, Spain": {
+    "lat": 36.6949044,
+    "lon": -4.4430532,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "63, Avenida Sor Teresa Prat, San Andrés, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Spengler, 11-1, Málaga, Spain": {
+    "lat": 36.7178177,
+    "lon": -4.4556016,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Spengler, La Barriguilla, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Tarquina 5c, Málaga, Spain": {
+    "lat": 36.6991058,
+    "lon": -4.476487,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Tarquina, Los Prados, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Paseo de los Tilos, 55, Málaga, Spain": {
+    "lat": 36.7127295,
+    "lon": -4.4381278,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "55, Paseo de los Tilos, Cruz del Humilladero, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Tomás Echevarria, 6, Málaga, Spain": {
+    "lat": 36.7049724,
+    "lon": -4.4362785,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Tomás Echevarría, Calle Tomás Echeverría, Huelin, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "amenity",
+    "match_type": "taxi"
+  },
+  "Calle Union Mercantil 25, Málaga, Spain": {
+    "lat": 36.6848685,
+    "lon": -4.4522193,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "25, Calle La Unión Mercantil, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Velasco, 22, Málaga, Spain": {
+    "lat": 36.708285,
+    "lon": -4.4360898,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Velasco, La Princesa, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Vicente Aleixandre, 50, Málaga, Spain": {
+    "lat": 36.6990704,
+    "lon": -4.4419041,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Vicente Aleixandre, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Viña del Mar, 1, Málaga, Spain": {
+    "lat": 36.6918043,
+    "lon": -4.4535742,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Viña del Mar, Puerta Blanca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Virgen de Belen, 5, Málaga, Spain": {
+    "lat": 36.693531,
+    "lon": -4.4551521,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Virgen de Belén, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Calle Virgen de la Esperanza, 18, Málaga, Spain": {
+    "lat": 36.7168899,
+    "lon": -4.4464053,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Mercado de Carranque, 18, Calle Virgen de la Esperanza, Carranque, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "amenity",
+    "match_type": "marketplace"
+  },
+  "Virgen de la Estrella, 10, Málaga, Spain": {
+    "lat": 36.7162932,
+    "lon": -4.4432977,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "10, Calle Virgen de la Estrella, Carranque, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Virgen de la Fuensanta, 27, Málaga, Spain": {
+    "lat": 36.7139105,
+    "lon": -4.4466966,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "27, Calle Virgen de la Fuensanta, Núcleo General Franco, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Virgen de la Paloma, 105, Málaga, Spain": {
+    "lat": 36.7168896,
+    "lon": -4.4481874,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "105, Calle Virgen de la Paloma, Carranque, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Virgen de las Flores, 2-4, Málaga, Spain": {
+    "lat": 36.7202049,
+    "lon": -4.4431005,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Virgen de las Flores, Arroyo del Cuarto, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Virgen del Rocío, 86-90, Málaga, Spain": {
+    "lat": 36.7164229,
+    "lon": -4.446997,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Virgen del Rocío, Carranque, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Albahaca 10, Málaga, Spain": {
+    "lat": 36.7137484,
+    "lon": -4.4444012,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Albahaca, 4 de Diciembre, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Martínez Maldonado, 59, Bailén-miraflores, 29007, Málaga, Spain": {
+    "lat": 36.7215279,
+    "lon": -4.4410185,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Martínez Maldonado, Las Chapas, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Hamlet, 11 and Calle Robinson Crusoe, Málaga, Spain": {
+    "lat": 36.7088979,
+    "lon": -4.4583911,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Hamlet, Cortijo Alto, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Franz Kafka, 13, Málaga, Spain": {
+    "lat": 36.7160251,
+    "lon": -4.4644688,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "13, Calle Franz Kafka, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Doctor Miguel Diaz Recio, 27 and Calle Charles Dickens, Málaga, Spain": {
+    "lat": 36.7230164,
+    "lon": -4.4643222,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Colegio de Educación Infantil y Primaria Carmen de Burgos, 27, Calle Doctor Miguel Díaz Recio, Las Morillas, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "amenity",
+    "match_type": "school"
+  },
+  "Carril del Capitán, 3 and Calle Navaro Ledesma, Málaga, Spain": {
+    "lat": 36.7253112,
+    "lon": -4.4617407,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "3, Carril del Capitán, Teatinos, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Pirandello, 12 and Calle Franz Kafka, Málaga, Spain": {
+    "lat": 36.7164448,
+    "lon": -4.46211,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "12, Calle Pirandello, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Juan Francés Bosca, 6 and Plaza Manos Unidas, Málaga, Spain": {
+    "lat": 36.7274224,
+    "lon": -4.4637409,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Juan Francés Bosca, Las Morillas, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Lope de Rueda, 43, Málaga, Spain": {
+    "lat": 36.7363065,
+    "lon": -4.4795082,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "43, Calle Lope de Rueda, Los Tomillares, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Lope de Rueda and Calle Escritora Ana Maria Matute, Málaga, Spain": {
+    "lat": 36.7457587,
+    "lon": -4.4917337,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Lope de Rueda, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Navarro Ledesma and Calle Escritora Josefina Aldecoa, Málaga, Spain": {
+    "lat": 36.7253865,
+    "lon": -4.4745451,
+    "quality": "low",
+    "method": "second_street_of_intersection",
+    "matched_address": "Calle Escritora Josefina Aldecoa, Torre Atalaya, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Navarro Ledesma, 235, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Pindaro, 9 Entrada Parking Mercadona, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Esquilo, 6 and Calle Solon, Málaga, Spain": {
+    "lat": 36.7229366,
+    "lon": -4.483284,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Esquilo, El Cónsul, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Eolo,1 and Calle de Demostenes, Málaga, Spain": {
+    "lat": 36.7192873,
+    "lon": -4.4760107,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Copyrap, 1, Calle Eolo, El Romeral, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "shop",
+    "match_type": "copyshop"
+  },
+  "Diego Fernández Mendoza, 23 and Calle Pablo Gargallo, Málaga, Spain": {
+    "lat": 36.722534,
+    "lon": -4.4701226,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Avenida Diego Fernández de Mendoza, Finca La Palma, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Juana de Castro,1 and Calle Nestor Almendros, Málaga, Spain": {
+    "lat": 36.7251258,
+    "lon": -4.4696462,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Néstor Almendros, El Tejar, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle del Lingüista Lázaro Carreter, 2 and Calle Prof. Alfonso Pagonoski, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Jacob, 32 and Calle Mateo Flecha, Málaga, Spain": {
+    "lat": 36.7229698,
+    "lon": -4.5480663,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Jacob, Las Manseras, Santa Rosalía-Maqueda, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle José Calderón and Calle Jose Fernando Carvajal, Málaga, Spain": {
+    "lat": 36.729746,
+    "lon": -4.5478633,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle José Calderón, Campanillas, El Rayo, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle José Calderón, 40 and Calle Matisse Al Lado de Contenedor Aceite, Málaga, Spain": {
+    "lat": 36.7232643,
+    "lon": -4.5378573,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "40, Calle José Calderón, El Prado, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Praga, 7, Málaga, Spain": {
+    "lat": 36.6964397,
+    "lon": -4.4486922,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "7, Calle Niño Jesús de Praga, Sixto, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Camino de Santa Inés, 29, Málaga, Spain": {
+    "lat": 36.7209923,
+    "lon": -4.5338102,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "29, Camino Colonia Santa Inés, Pilar del Prado, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Escritor Julio Balbas, 63 and Calle Dr. Ramos Acosta, Málaga, Spain": {
+    "lat": 36.6616434,
+    "lon": -4.4990987,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Escritor Julio Balbas, Las Espeñuelas, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Heliomar, 12 and Calle Maestro Serrano, Málaga, Spain": {
+    "lat": 36.6620132,
+    "lon": -4.5015123,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Heliomar, Heliomar, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Doctor Ramos Acosta, 20 and Calle Sedella En la Rotonda, Málaga, Spain": {
+    "lat": 36.6633815,
+    "lon": -4.5024338,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "20, Calle Doctor Ramos Acosta, Heliomar, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Gaspar Sanz, 13 and Calle Arbol Blanco, Málaga, Spain": {
+    "lat": 36.6669383,
+    "lon": -4.5006275,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Gaspar Sanz, Hacienda Platero, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Camino Nuevo, 42 and Calle Benamocarra, Málaga, Spain": {
+    "lat": 36.7266233,
+    "lon": -4.4055396,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Paseo Salvador Rueda, Ventaja Alta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Plaza de la Inmaculada, 14, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Camino de la Huertecilla, 49 and Calle Decano Souviron y Torres, Málaga, Spain": {
+    "lat": 36.6833551,
+    "lon": -4.5185115,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "49, Camino Huertecilla, Churriana, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Decano Manuel Torriglia, 26 and Plaza Ferrer y Guardia, Málaga, Spain": {
+    "lat": 36.6737898,
+    "lon": -4.5106768,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Decano Manuel Torriglia, La Noria, Churriana, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29040, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Camino Guadalmar A la Loma, 9, Málaga, Spain": {
+    "lat": 36.6675934,
+    "lon": -4.4746218,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Camino Guadalmar a la Loma, San Julián, Churriana, Guadalmar-San Julián, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Guadalhorce, 6, Málaga, Spain": {
+    "lat": 36.6694234,
+    "lon": -4.4645151,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "6, Calle Guadalhorce, Guadalmar, Churriana, Guadalmar-San Julián, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carretera de Olias 109-111, Málaga, Spain": {
+    "lat": 36.7252093,
+    "lon": -4.3449554,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Carretera Olías, Camino de Olías, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Almeria, 63, Málaga, Spain": {
+    "lat": 36.720582,
+    "lon": -4.3555012,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "63, Calle Almería, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Villafuerte, 44, Málaga, Spain": {
+    "lat": 36.7242363,
+    "lon": -4.3589797,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "44, Calle Villafuerte, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Pio Baroja, 5-7 and Escultor Marin Higuero, Málaga, Spain": {
+    "lat": 36.7208568,
+    "lon": -4.3644341,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Escultor Marín Higuero, Echeverría del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Arquitecto Eduardo Esteve, 9, Málaga, Spain": {
+    "lat": 36.7201201,
+    "lon": -4.3629709,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "9, Calle Arquitecto Eduardo Esteve, Echeverría del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Salvador Allende, 175, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Amador de los Ríos, 22, Málaga, Spain": {
+    "lat": 36.7259004,
+    "lon": -4.3692422,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "22, Calle Amador de los Ríos, Valle de los Galanes, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Federico Fellini, 32 and Calle Miguel Indurain, Málaga, Spain": {
+    "lat": 36.727836,
+    "lon": -4.3900432,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "32, Calle Federico Fellini, Parque Clavero, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Federico Fellini, 64, Málaga, Spain": {
+    "lat": 36.7269374,
+    "lon": -4.3858068,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "64, Calle Federico Fellini, Parque Clavero, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Paseo Cerrado de Calderón, 14, Málaga, Spain": {
+    "lat": 36.7253412,
+    "lon": -4.3813813,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "14, Paseo Cerrado de Calderón, Cerrado de Calderón, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Juan Cabanilles, 13 and Calle Olmos, Málaga, Spain": {
+    "lat": 36.7376378,
+    "lon": -4.3806115,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "13, Calle Juan Cabanilles, Cerrado de Calderón, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Juan Vazquez, 3 and Calle Idris, 1, Málaga, Spain": {
+    "lat": 36.7361176,
+    "lon": -4.3789656,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "3, Calle Juan Vázquez, Cerrado de Calderón, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Da. de la Aurora, 5, Málaga, Spain": {
+    "lat": 36.7219519,
+    "lon": -4.4260301,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Plaza de la Aurora, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Calle Hilera, 6, Málaga, Spain": {
+    "lat": 36.7180416,
+    "lon": -4.4290004,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "6, Calle Hilera, Perchel Norte, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Rmoles, 14, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "De Fátima, 19, Málaga, Spain": {
+    "lat": 36.7338501,
+    "lon": -4.5320497,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "19, Calle Virgen de Fátima, Colmenarejo, Locaraña, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle San Bartolomé, 15, Málaga, Spain": {
+    "lat": 36.7275625,
+    "lon": -4.4225222,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle San Bartolomé, El Molinillo, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Tra. Sra. de las Guías, 3 and Plaza Nazaret, Málaga, Spain": {
+    "lat": 36.7384726,
+    "lon": -4.4206974,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Plaza de Nazaret, Parque del Sur, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Plaza Francisco López López, 5 En Rotonda, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "R, 23 and Calle Rafael Fernández, Málaga, Spain": {
+    "lat": 36.7440168,
+    "lon": -4.4209519,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Calle Rafael Fernández, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Ntiago Ramón y Cajal, 67, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Thuiller, 85, Málaga, Spain": {
+    "lat": 36.7449133,
+    "lon": -4.4219247,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Thuillier - Obispo Severo, Calle Emilio Thuillier, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "And Calle Alcalde José Hernández, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "O Miranda, 15 and Calle Héctor Villa-lobos, 35, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida Málaga Oloroso, 36 and Calle Quina. Encima Acera Parque Infantil, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "N Calle Alcalde Joaquín Quiles, Málaga, Spain": {
+    "lat": 36.7495445,
+    "lon": -4.4207546,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Alcalde Joaquín Quiles, Jardín de Málaga, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "On Calle Cristóbal Fonseca, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle del Marqués de Mantua, 17, Málaga, Spain": {
+    "lat": 36.7505239,
+    "lon": -4.4149263,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Colegio de Educación Infantil y Primaria Rafael Alberti, 17, Calle Marqués de Mantua, Jardín de Málaga, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "amenity",
+    "match_type": "school"
+  },
+  "/ Pastora Imperio, 11 and Calle Sor Juana Inés de la Cruz, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Casabermeja, 56 and . Calle Dolores Cassini, 15, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "De John F. Kennedy, 4 Puertas Polideportivo, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Alameda de Capuchinos, 14, Málaga, Spain": {
+    "lat": 36.7297578,
+    "lon": -4.4200712,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "La Plaza de Dia, 14, Alameda Capuchinos, Capuchinos, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "shop",
+    "match_type": "supermarket"
+  },
+  "Calle Cristo de la Epidemía, 42, Málaga, Spain": {
+    "lat": 36.7292523,
+    "lon": -4.4145551,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "42, Calle Cristo de la Epidemia, Cristo de la Epidemia, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Compás de la Victoria, 4, Málaga, Spain": {
+    "lat": 36.727348,
+    "lon": -4.4135271,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "4, Calle Compás de la Victoria, Cristo de la Epidemia, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Ferrandiz, 18, Málaga, Spain": {
+    "lat": 36.7271129,
+    "lon": -4.412469,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Eneobrand, 18, Calle Ferrándiz, La Victoria, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "shop",
+    "match_type": "clothes"
+  },
+  "Calle Ferrandiz, 67, Málaga, Spain": {
+    "lat": 36.7273083,
+    "lon": -4.4114526,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Ferrándiz, Conde de Ureña, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Camino de los Almendrales, 15, Málaga, Spain": {
+    "lat": 36.7348916,
+    "lon": -4.4093059,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino de los Almendrales, Los Pinos del Limonar, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Plaza de Olletas, 7, Málaga, Spain": {
+    "lat": 36.7334285,
+    "lon": -4.4159604,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Cortinahogar Valdivia, 7, Plaza Olletas, Olletas, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "shop",
+    "match_type": "curtain"
+  },
+  "Calle San Juan Bosco, 51 and . Calle Soto Mayor, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Alameda de Colón, 8 and . Pasaje Linaje, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Córdoba, 16, Málaga, Spain": {
+    "lat": 36.7157142,
+    "lon": -4.4219005,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "16, Calle Córdoba, Ensanche Centro, Soho, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29001, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Atarazanas, 10, Málaga, Spain": {
+    "lat": 36.7180982,
+    "lon": -4.4245086,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "La Desayunería, 10, Calle Atarazanas, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "match_class": "amenity",
+    "match_type": "cafe"
+  },
+  "Calle Armengual de la Mota, 29, Málaga, Spain": {
+    "lat": 36.7202517,
+    "lon": -4.4292878,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "29, Calle Armengual de la Mota, Mármoles, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Salistre, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Cuarteles, 49, Málaga, Spain": {
+    "lat": 36.7121668,
+    "lon": -4.4296115,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "49, Calle Cuarteles, Perchel Sur, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Plaza de Bailen, Málaga, Spain": {
+    "lat": 36.7242103,
+    "lon": -4.4317816,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Plaza Bailén, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Arroyo de los Angeles, 5, Málaga, Spain": {
+    "lat": 36.7306049,
+    "lon": -4.4329321,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Arroyo de los Ángeles, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "boundary",
+    "match_type": "administrative"
+  },
+  "Calle Caballerizas, and . Calle la Era, Málaga, Spain": {
+    "lat": 36.7332512,
+    "lon": -4.3979602,
+    "quality": "low",
+    "method": "second_street_of_intersection",
+    "matched_address": "Calle La Era, El Mayorazgo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Sierra de Grazalema, 32, Málaga, Spain": {
+    "lat": 36.7324247,
+    "lon": -4.4028572,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "32, Calle Sierra de Grazalema, Los Pinos del Limonar, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Plaza de la Merced, Málaga, Spain": {
+    "lat": 36.7233811,
+    "lon": -4.4175432,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Plaza de la Merced, La Merced, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "place",
+    "match_type": "square"
+  },
+  "Plaza de Reding, 22, Málaga, Spain": {
+    "lat": 36.72035,
+    "lon": -4.4107849,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Plaza de Toros de La Malagueta, 8, Paseo de Reding, Campos Elíseos, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "leisure",
+    "match_type": "stadium"
+  },
+  "Calle Reding, and . Calle Pintor Martinez Virel, Málaga, Spain": {
+    "lat": 36.7173298,
+    "lon": -4.4115054,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Reding, La Malagueta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "match_class": "highway",
+    "match_type": "pedestrian"
+  },
+  "Paseo del Limonar, 23, and . Calle Ramos Carrion, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Carretera Campanillas A Colmenarejo, Málaga, Spain": {
+    "lat": 36.7378366,
+    "lon": -4.5341873,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino Los Carrizos, Colmenarejo, Locaraña, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Azalea, 17, Málaga, Spain": {
+    "lat": 36.7355121,
+    "lon": -4.4869598,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Azalea, Los Almendros, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Lope de Rueda and Camino del Orozco, Málaga, Spain": {
+    "lat": 36.7457587,
+    "lon": -4.4917337,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Lope de Rueda, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Fuente Alegre, 10, Málaga, Spain": {
+    "lat": 36.7446964,
+    "lon": -4.4831829,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "10, Calle Fuente Alegre, Fuente Alegre, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Jacobina and Calle Espliego, Málaga, Spain": {
+    "lat": 36.7455746,
+    "lon": -4.4881712,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Jacobina, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29191, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Lope de Rueda and Calle Uranio, Málaga, Spain": {
+    "lat": 36.7457587,
+    "lon": -4.4917337,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Lope de Rueda, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Lope de Rueda and Calle Juan Perez de Viedma, Málaga, Spain": {
+    "lat": 36.7457587,
+    "lon": -4.4917337,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Lope de Rueda, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Zarzamora and Calle Cerraja, Málaga, Spain": {
+    "lat": 36.7408972,
+    "lon": -4.4968542,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Zarzamora, Puertosol, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Orquidea,30, Málaga, Spain": {
+    "lat": 36.7429126,
+    "lon": -4.4946031,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Escuela Infantil Pepola, 30, Calle Orquídea, Puertosol, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "amenity",
+    "match_type": "kindergarten"
+  },
+  "Calle Espiga, 6, Málaga, Spain": {
+    "lat": 36.7374495,
+    "lon": -4.4946093,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Espiga, Cañaveral, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Carril Camapnillas A Colme+f109:f124narejo, 14 Huertecilla de Mañas, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Espiga y Calle Sirio, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Mercedes Formica, 4, Málaga, Spain": {
+    "lat": 36.6592299,
+    "lon": -4.5057896,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "4, Calle Mercedes Formica, Finca Monsálvez, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Escritora Carmen Bravo -villasante, 12, Málaga, Spain": {
+    "lat": 36.667439,
+    "lon": -4.5123591,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "12, Calle Escritora Carmen Bravo-Villasante, Los Rosales, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "C7 Emilio Zola, Málaga, Spain": {
+    "lat": 36.7353246,
+    "lon": -4.4845211,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Emilio Zola, Los Almendros, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Compositor Carmeno Bernaola and Calle Profesor Alfonso Progonoski, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle de Cartaojal, 32, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Agata and Calle Colmenarejo Nuevo, Málaga, Spain": {
+    "lat": 36.7346738,
+    "lon": -4.531527,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Agata, Colmenarejo, Locaraña, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "A7058 and Calle Anemona, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Fausto and Calle Israel, Málaga, Spain": {
+    "lat": 36.7304506,
+    "lon": -4.5494839,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Fausto, Roquero, El Rayo, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Jose Calderon, 123, Málaga, Spain": {
+    "lat": 36.7265031,
+    "lon": -4.5427609,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "123, Calle José Calderón, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Fausto, 18, Málaga, Spain": {
+    "lat": 36.7304506,
+    "lon": -4.5494839,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Fausto, Roquero, El Rayo, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Praga, 14, Málaga, Spain": {
+    "lat": 36.7235054,
+    "lon": -4.5450089,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "14, Calle Praga, Segovia, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Canal and Calle Dinamarca, Málaga, Spain": {
+    "lat": 36.7338054,
+    "lon": -4.531608,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Berna, Colmenarejo, Locaraña, Campanillas, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29590, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Carril de Coin and Calle Torremolinos, Málaga, Spain": {
+    "lat": 36.6667268,
+    "lon": -4.5034738,
+    "quality": "low",
+    "method": "second_street_of_intersection",
+    "matched_address": "Calle Torremolinos, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle del Maestro Valt, 7, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Gonzalo Suarez Rendon and Calle Ramon Urbano Carrere, Málaga, Spain": {
+    "lat": 36.6718206,
+    "lon": -4.5084155,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Gonzalo Suárez Rendón, Los Paredones, Churriana, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29040, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Maria Tubau, 37, Málaga, Spain": {
+    "lat": 36.7419841,
+    "lon": -4.4225403,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "37, Calle María Tubau, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Jose Diaz Oliva, 4, Málaga, Spain": {
+    "lat": 36.7539433,
+    "lon": -4.4210518,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "4, Calle José Díaz Oliva, Huerta Nueva, San Telmo, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Jerez Perchet, 31, Málaga, Spain": {
+    "lat": 36.7453244,
+    "lon": -4.4181706,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Jerez Perchet, Los Cassini, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Juan del Encina, 17, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Emilio Diaz and Calle Isabel Chaix, Málaga, Spain": {
+    "lat": 36.7359028,
+    "lon": -4.4234555,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Emilio Díaz, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Obispo Bartolomé Espejo and Calle Rojas, Málaga, Spain": {
+    "lat": 36.7350438,
+    "lon": -4.420412,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Obispo Bartolomé Espejo, Las Flores, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle el Clarinete and Calle Pasion, Málaga, Spain": {
+    "lat": 36.742344,
+    "lon": -4.4136179,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle El Clarinete, Monte Dorado, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Santiago Ramon y Cajal, 11, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Francisco Lopez Lopez and Calle Sancho Panza, Málaga, Spain": {
+    "lat": 36.7421828,
+    "lon": -4.4218274,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Francisco López López, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Quintanar de la Orden and Calle Ventillas de Toledo, Málaga, Spain": {
+    "lat": 36.7519546,
+    "lon": -4.4215639,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Quintanar de la Orden, Alegría de la Huerta, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Pasaje Hospitalarios and Camino Casabermeja, Málaga, Spain": {
+    "lat": 36.7554617,
+    "lon": -4.42541,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Pasaje Hospitalarios, Ciudad Jardín, San Telmo, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Lorenza Correa, 22, Málaga, Spain": {
+    "lat": 36.7388748,
+    "lon": -4.4226962,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "22, Calle Lorenza Correa, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Luis Toboada, 12, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Almena, 83, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Almeria, 31, Málaga, Spain": {
+    "lat": 36.7209476,
+    "lon": -4.3572614,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Sabina, 31, Calle Almería, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "shop",
+    "match_type": "clothes"
+  },
+  "Calle Julio Gomez, 3, Málaga, Spain": {
+    "lat": 36.7190773,
+    "lon": -4.3540802,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "3, Calle de Julio Gómez, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Arquitecto Eduardo Esteve, 2, Málaga, Spain": {
+    "lat": 36.7212506,
+    "lon": -4.3631048,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Arquitecto Eduardo Esteve, Echeverría del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Miraflores del Palo, 2, Málaga, Spain": {
+    "lat": 36.727279,
+    "lon": -4.3580407,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Reino de León, Miraflores del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Montiel, 46, Málaga, Spain": {
+    "lat": 36.7226605,
+    "lon": -4.3581505,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "46, Calle Montiel, Las Cuevas, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Mar, 12, Málaga, Spain": {
+    "lat": 36.6970934,
+    "lon": -4.4974744,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "12, Calle Torre del Mar, Polígono Industrial Santa Teresa, Churriana, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle el Palustre, 6, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle España, 18, Málaga, Spain": {
+    "lat": 36.7237539,
+    "lon": -4.3627809,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "18, Calle España, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Villafuerte, 28, Málaga, Spain": {
+    "lat": 36.7251737,
+    "lon": -4.3582983,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Villafuerte, Miraflores del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Villafuerte, 5, Málaga, Spain": {
+    "lat": 36.7217636,
+    "lon": -4.360061,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "5, Calle Villafuerte, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Almeria, Málaga, Spain": {
+    "lat": 36.720399,
+    "lon": -4.3549166,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Almería, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Padre Lerchundi, 19, Málaga, Spain": {
+    "lat": 36.7192763,
+    "lon": -4.3556298,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Padre Lerchundi, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Banda del Mar, 47, Málaga, Spain": {
+    "lat": 36.7183703,
+    "lon": -4.3560193,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "47, Calle Banda del Mar, Playas del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Real, 15, Málaga, Spain": {
+    "lat": 36.7217497,
+    "lon": -4.3588249,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "15, Calle Real, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Luis Toboada, 43, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Practicante Fernandez Alcolea,12, Málaga, Spain": {
+    "lat": 36.7197955,
+    "lon": -4.3578298,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "12, Calle Practicante Fernández Alcolea, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Marcos Zapata, 1, Málaga, Spain": {
+    "lat": 36.7235343,
+    "lon": -4.3657201,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Marcos Zapata, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Juan Sebastian Elcano, 50, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Canales, 7, Málaga, Spain": {
+    "lat": 36.7110564,
+    "lon": -4.427451,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "7, Calle Canales, Plaza de Toros Vieja, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Plaza de Toros Vieja, 21, Málaga, Spain": {
+    "lat": 36.7136292,
+    "lon": -4.4290438,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "21, Calle Plaza de Toros Vieja, Perchel Sur, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Sevilla, 6, Málaga, Spain": {
+    "lat": 36.724032,
+    "lon": -4.4295634,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "6, Calle Sevilla, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Padre Isla, 2, Málaga, Spain": {
+    "lat": 36.7245987,
+    "lon": -4.4049171,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "2, Calle Padre Isla, Monte Sancha, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Paseo de Sancha, 57, Málaga, Spain": {
+    "lat": 36.7224501,
+    "lon": -4.3998258,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "57, Paseo de Sancha, Monte Sancha, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Paseo de Sancha, 4, Málaga, Spain": {
+    "lat": 36.7213944,
+    "lon": -4.4049704,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "4, Paseo de Sancha, La Caleta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Alcalde Pedro Luis Alonso, 1, Málaga, Spain": {
+    "lat": 36.7201095,
+    "lon": -4.4158425,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Calle Alcalde Pedro Luis Alonso, Ensanche Centro, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Julio de Mathias, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Zurbaran, 32, Málaga, Spain": {
+    "lat": 36.7336619,
+    "lon": -4.4168554,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Zurbarán, Olletas, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Paseo Maritimo Comunidad de Melilla, 8, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Actriz Rosario Pino, 12, Málaga, Spain": {
+    "lat": 36.7313938,
+    "lon": -4.4243911,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Sandra Martos, 12, Calle Actriz Rosario Pino, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "shop",
+    "match_type": "beauty"
+  },
+  "Calle Huerto de los Claveles, 6, Málaga, Spain": {
+    "lat": 36.7274976,
+    "lon": -4.4255742,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "6, Calle Huerto de los Claveles, El Molinillo, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Alameda de Barcelo, 48, Málaga, Spain": {
+    "lat": 36.7312765,
+    "lon": -4.4204517,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Alameda Barceló - Monserrat, Alameda Barceló, San Miguel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Cristo de la Epifania, 42, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Rojas, 69, Málaga, Spain": {
+    "lat": 36.7347585,
+    "lon": -4.4212151,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "69, Calle Rojas, San Miguel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Carril Castell, 24, Málaga, Spain": {
+    "lat": 36.7262881,
+    "lon": -4.4033273,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Carril de Castell, La Vaguada, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Amargura, 52, Málaga, Spain": {
+    "lat": 36.7295434,
+    "lon": -4.4116077,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "52, Calle Amargura, Conde de Ureña, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Luis de Maceda, 7, Málaga, Spain": {
+    "lat": 36.7283132,
+    "lon": -4.4122833,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Luis de Maceda, Conde de Ureña, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Camino del Comenar, 57, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Alameda de Capuchinos, 48, Málaga, Spain": {
+    "lat": 36.730909,
+    "lon": -4.4186281,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "48, Alameda Capuchinos, Capuchinos, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Camino del Colmenar, 13, Málaga, Spain": {
+    "lat": 36.734164,
+    "lon": -4.4160247,
+    "quality": "medium",
+    "method": "simplified",
+    "matched_address": "Papelería Hermanos Martos, 13, Camino Colmenar, Olletas, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "shop",
+    "match_type": "stationery"
+  },
+  "Camino de los Almendrales, Málaga, Spain": {
+    "lat": 36.7348916,
+    "lon": -4.4093059,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Camino de los Almendrales, Los Pinos del Limonar, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Calle Victoria, 41, Málaga, Spain": {
+    "lat": 36.7251141,
+    "lon": -4.4152345,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "41, Calle Victoria, La Victoria, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Callejones del Perchel, 19, Málaga, Spain": {
+    "lat": 36.7143004,
+    "lon": -4.4308194,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "19, Calle Callejones del Perchel, Perchel Sur, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Paseo Maritimo Comunidad de Melilla, 3, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Kandinsky, 20, Málaga, Spain": {
+    "lat": 36.7151657,
+    "lon": -4.4656031,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "20, Calle Kandinsky, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Tamayo y Baus and Calle Juan Frances Boscá, Málaga, Spain": {
+    "lat": 36.7259528,
+    "lon": -4.4667865,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Tamayo y Baus, Colonia Santa Inés, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Aristofanes and Calle Esquilo, Málaga, Spain": {
+    "lat": 36.7233881,
+    "lon": -4.4836645,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Aristófanes, El Cónsul, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Juan de Robles, 61, Málaga, Spain": {
+    "lat": 36.7210582,
+    "lon": -4.4647374,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Papelería Copíxel, 61, Calle Juan de Robles, Las Morillas, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "shop",
+    "match_type": "stationery"
+  },
+  "Calle Pablo Bruna and Calle Charles Dikens, Málaga, Spain": {
+    "lat": 36.7228065,
+    "lon": -4.4663108,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Pablo Bruna, Hacienda Roldán, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Juan de Robles, and Calle Orson Wells, Málaga, Spain": {
+    "lat": 36.7216896,
+    "lon": -4.4609947,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Juan de Robles, Teatinos, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Miguel Carrera and Calle Diego Lopez de Zuñiga, Málaga, Spain": {
+    "lat": 36.7234391,
+    "lon": -4.468421,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Miguel Carrera, Las Morillas, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Hamlet and Calle Shanti Andia, Málaga, Spain": {
+    "lat": 36.7088979,
+    "lon": -4.4583911,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Hamlet, Cortijo Alto, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Mazarredo and Avenida de Arroyo de los Angeles, Málaga, Spain": {
+    "lat": 36.7272721,
+    "lon": -4.4286507,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Mazarredo, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Calle Padre Mondejar, 3, Málaga, Spain": {
+    "lat": 36.7272695,
+    "lon": -4.4199837,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Padre Mondéjar, El Ejido, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Antonio Linares Pezzi, 31, Málaga, Spain": {
+    "lat": 36.7333318,
+    "lon": -4.4198229,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Antonio Linares Pezzi, San Miguel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Fraile, 2, Málaga, Spain": {
+    "lat": 36.7248809,
+    "lon": -4.4365425,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Eloy Sebastián Fraile, Haza del Campillo, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Salistre, 40, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Canales and Calle Jacinto Verdaguer, Málaga, Spain": {
+    "lat": 36.7105137,
+    "lon": -4.4282971,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Canales, Plaza de Toros Vieja, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Puerto Parejo 6-8, Málaga, Spain": {
+    "lat": 36.7278201,
+    "lon": -4.4149044,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Calle Puerto Parejo, Cristo de la Epidemia, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Franz Kafka, Málaga, Spain": {
+    "lat": 36.7164517,
+    "lon": -4.4653748,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Franz Kafka, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Bulevar de Louis Parteur,2, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida del Editor Angel Caffarena, 25, Málaga, Spain": {
+    "lat": 36.7262653,
+    "lon": -4.4783099,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "25, Avenida Editor Ángel Caffarena, Torre Atalaya, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida del Obispo Angel Herrea Oria, 5, Málaga, Spain": {
+    "lat": 36.7181127,
+    "lon": -4.4396451,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "5, Avenida Obispo Ángel Herrera Oria, Polígono Alameda, Cruz de Humilladero, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de los Guindos 29, Málaga, Spain": {
+    "lat": 36.6915342,
+    "lon": -4.4489365,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Maria Victoria Hervas Jimenez, 29, Avenida de los Guindos, Santa Paula, Polígono Industrial Los Guindos, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "amenity",
+    "match_type": "pharmacy"
+  },
+  "Avenida Imperio Argentina 7, Málaga, Spain": {
+    "lat": 36.6831432,
+    "lon": -4.4553009,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Trattoria Mamma Franca, 7, Avenida Imperio Argentina, Finca El Pato, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "amenity",
+    "match_type": "restaurant"
+  },
+  "Avenida de Bonaire, 5, Málaga, Spain": {
+    "lat": 36.6950703,
+    "lon": -4.4551506,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "5, Avenida Bonaire, Los Girasoles, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de Europa, 117, Málaga, Spain": {
+    "lat": 36.7023994,
+    "lon": -4.4466073,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Europa - Dos Hermanas, Avenida Europa, El Torcal, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Avenida de Europa and Puerto Oncala, Málaga, Spain": {
+    "lat": 36.7008379,
+    "lon": -4.4512364,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Fuente de la Avenida de Europa, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España",
+    "match_class": "natural",
+    "match_type": "water"
+  },
+  "Avenida de la Luz 11, Málaga, Spain": {
+    "lat": 36.6965012,
+    "lon": -4.452658,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "11, Avenida de la Luz, La Luz, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de la Paloma, 23, Málaga, Spain": {
+    "lat": 36.7008289,
+    "lon": -4.4425808,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "23, Avenida Paloma, Girón, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida de Moliere, 1, Málaga, Spain": {
+    "lat": 36.6906034,
+    "lon": -4.4562891,
+    "quality": "high",
+    "method": "simplified",
+    "matched_address": "1, Avenida Molière, Mainake, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "De La, Camino de la Térmica, 21, 29004, Málaga, Spain": {
+    "lat": 36.6815213,
+    "lon": -4.450535,
+    "quality": "low",
+    "method": "street_only_fallback",
+    "matched_address": "Térmica - Imperio Argentina, Camino de La Térmica, Almudena, Polígono Industrial La Térmica, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "bus_stop"
+  },
+  "Camino de los Guindos, 26-28, Málaga, Spain": {
+    "lat": 36.6937365,
+    "lon": -4.4509104,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino de los Guindos, La Paz, Polígono Industrial Los Guindos, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Camino del Pato, 32, Málaga, Spain": {
+    "lat": 36.6888443,
+    "lon": -4.4520673,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "32, Camino del Pato, Puerta Blanca, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Camino Suárez, 54, Bailén-miraflores, 29010, Málaga, Spain": {
+    "lat": 36.7282981,
+    "lon": -4.4408807,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "54, Camino Suárez, Parque Victoria Eugenia, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Luis Buñuel and Avenida Simon Bolivar, Málaga, Spain": {
+    "lat": 36.7329633,
+    "lon": -4.4285302,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Luis Buñuel, Martiricos, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29011, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Camino San Alberto, 10-12, Málaga, Spain": {
+    "lat": 36.7360815,
+    "lon": -4.452691,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino San Alberto, San Alberto, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Camino San Alberto, 34-44, Málaga, Spain": {
+    "lat": 36.7347201,
+    "lon": -4.45111,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Camino San Alberto, Carlinda, Bailén-Miraflores, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Mesonero Romanos and Avenida Jorge Luis Borge, Málaga, Spain": {
+    "lat": 36.722899,
+    "lon": -4.4606988,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Mesonero Romanos, Teatinos, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Avenida López de Vega, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida del Atabal, 3 and Calle Atabalero, Málaga, Spain": {
+    "lat": 36.7307807,
+    "lon": -4.4702503,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Avenida del Atabal, Los Ramos, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida del Atabal, 15 Calle Juan de Ortega, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Calle Lope de Rueda and Avenidaarquitecto Luis Bono, Málaga, Spain": {
+    "lat": 36.7457587,
+    "lon": -4.4917337,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Lope de Rueda, Salinas, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Andersen, 22 and Calle Euripides, Málaga, Spain": {
+    "lat": 36.7372909,
+    "lon": -4.4823933,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "22, Avenida Andersen, Los Almendros, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Escritor Antonio Soler, 15 and Calle Catedrico Cristobal Cuevas, Málaga, Spain": {
+    "lat": 36.7237656,
+    "lon": -4.4922765,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "15, Avenida Escritor Antonio Soler, Soliva Este, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Plutarco, 61 Antes de Avenidapermenides, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida Plutarco, and . Calle Antigona, Málaga, Spain": {
+    "lat": 36.7206674,
+    "lon": -4.4731034,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Plutarco, El Romeral, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Avenida Pepita Durán, and . Calle la Sonata, Málaga, Spain": {
+    "lat": 36.7220735,
+    "lon": -4.4710591,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Pepita Durán, Finca La Palma, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Julio Cortazar, Málaga, Spain": {
+    "lat": 36.7308368,
+    "lon": -4.4680964,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Avenida Julio Cortázar, Atabal Este, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Calle Mallarmé, 2 and Avenida Jorge Luis Borge, Málaga, Spain": {
+    "lat": 36.7195822,
+    "lon": -4.4621209,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "2, Calle Mallarmé, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avesía de Maqueda, 30 and Camino de Rojas, Málaga, Spain": {
+    "lat": 36.6532922,
+    "lon": -4.5048309,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Camino del Pilar, El Coronel, Churriana, Cortijo de Maza-El Olivar, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29140, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Avenida Juan Sebastian Elcano, 147, Málaga, Spain": {
+    "lat": 36.7220751,
+    "lon": -4.3644519,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "147-153, Avenida Juan Sebastián Elcano, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Ortega Munilla and Avenida Pio Baroja, Málaga, Spain": {
+    "lat": 36.7199818,
+    "lon": -4.3600298,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Ortega Munilla, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Juan Sebastian Elcano, 195, Málaga, Spain": {
+    "lat": 36.7212483,
+    "lon": -4.3610379,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "195, Avenida Juan Sebastián Elcano, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida San Isidro, 1, Málaga, Spain": {
+    "lat": 36.7262021,
+    "lon": -4.3653552,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Avenida San Isidro, San Isidro, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Juan Sebastian Elcano, 8 and Calle Pez Plata, Málaga, Spain": {
+    "lat": 36.7224061,
+    "lon": -4.3711252,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Avenida Juan Sebastián Elcano, Pedregalejo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Pintor Sorolla, and Calle Idris, 1, Málaga, Spain": {
+    "lat": 36.7231865,
+    "lon": -4.3975735,
+    "quality": "medium",
+    "method": "first_street_with_number",
+    "matched_address": "1, Avenida Pintor Joaquín Sorolla, Miramar, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Cibeles, 45 and Calle Moisés. En and, Málaga, Spain": {
+    "lat": 36.7390201,
+    "lon": -4.4204784,
+    "quality": "low",
+    "method": "generic_and_fallback",
+    "matched_address": "Avenida de la Cibeles, Parque del Sur, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Malaga Oloroso and Calle Jerez Perchet, Málaga, Spain": {
+    "lat": 36.7455118,
+    "lon": -4.4159086,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Málaga Oloroso, Cortijo Bazán, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Avenida de Juan Grande, 6 Benito Menni, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida de la Rosaleda and . Calle San Rafael, Málaga, Spain": {
+    "lat": 36.7242508,
+    "lon": -4.425459,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida de la Rosaleda, La Goleta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29008, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Manuel Gorria, 63, Málaga, Spain": {
+    "lat": 36.736858,
+    "lon": -4.4176478,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "63, Avenida Manuel Gorría, Pinares de Olletas, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Barcelona, 1, Málaga, Spain": {
+    "lat": 36.7216107,
+    "lon": -4.4317999,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "1, Avenida Barcelona, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29007, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Doctor Galvez Ginachero, and , Calle Don Juan de Austria, Málaga, Spain": {
+    "lat": 36.7268271,
+    "lon": -4.4277547,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Doctor Gálvez Ginachero, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Avenida de Canovas del Castillo, 5, Málaga, Spain": {
+    "lat": 36.7189997,
+    "lon": -4.4106202,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Asociación Cultural Bernardo de Gálvez y Gallardo, 5, Avenida Cánovas del Castillo, La Malagueta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "match_class": "office",
+    "match_type": "association"
+  },
+  "Avenida Manuel Rodríguez and Calle Manuel Rivera Vera, Málaga, Spain": {
+    "lat": 36.7341735,
+    "lon": -4.4798113,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Manuel Rodríguez, El Tomillar, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Jorge Silvela, 72, Málaga, Spain": {
+    "lat": 36.7354728,
+    "lon": -4.42461,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "72, Avenida Jorge Silvela, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Juan Sebastian Elcano, 1725, Málaga, Spain": {
+    "lat": 36.7210615,
+    "lon": -4.3596395,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida Juan Sebastián Elcano, El Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Salvador Allende, 90, Málaga, Spain": {
+    "lat": 36.7191102,
+    "lon": -4.3581221,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "90, Avenida Salvador Allende, Playas del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Salvador Allende, 36, Málaga, Spain": {
+    "lat": 36.7194474,
+    "lon": -4.3613597,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "36, Avenida Salvador Allende, Playas del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Miraflores del Palo, 21, Málaga, Spain": {
+    "lat": 36.7224974,
+    "lon": -4.3566044,
+    "quality": "medium",
+    "method": "original",
+    "matched_address": "Avenida Miraflores del Palo, Miraflores del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida de Miraflores del Palo, 28, Málaga, Spain": {
+    "lat": 36.7238265,
+    "lon": -4.3568847,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "28, Avenida Miraflores del Palo, Miraflores del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29018, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Avenida Salvador Allende, 5, Málaga, Spain": {
+    "lat": 36.7200415,
+    "lon": -4.3653276,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "5, Avenida Salvador Allende, Echeverría del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle Eduardo Dominguez Avila, Málaga, Spain": {
+    "lat": 36.7299685,
+    "lon": -4.4213861,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Calle Eduardo Domínguez Ávila, Capuchinos, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Avenida Navarro Ledesma, 245, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  },
+  "Avenida Maria Victoria Atencia and Calle Alicia Alonso, Málaga, Spain": {
+    "lat": 36.7264791,
+    "lon": -4.4825984,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida María Victoria Atencia, Hacienda Altamira, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "secondary"
+  },
+  "Calle Giordano Bruno and Avenida Louis Pasteur, Málaga, Spain": {
+    "lat": 36.719072,
+    "lon": -4.4658943,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Calle Giordano Bruno, Hacienda Bizcochero, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29006, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Dolores Rodriguez de Aragón, 3, Málaga, Spain": {
+    "lat": 36.7192225,
+    "lon": -4.4861698,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "3, Avenida Dolores Rodríguez de Aragón, Cañada de los Cardos, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "match_class": "place",
+    "match_type": "house"
+  },
+  "Calle de Carmen Laforet and Avenida Pepita Duran, Málaga, Spain": {
+    "lat": 36.7223367,
+    "lon": -4.4737275,
+    "quality": "low",
+    "method": "first_street_simplified",
+    "matched_address": "Calle Carmen Laforet, El Romeral, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29071, España",
+    "match_class": "highway",
+    "match_type": "residential"
+  },
+  "Avenida Santiago Ramon y Cajal, Málaga, Spain": {
+    "lat": 36.7475277,
+    "lon": -4.4229543,
+    "quality": "high",
+    "method": "original",
+    "matched_address": "Avenida Santiago Ramón y Cajal, Ciudad Jardín, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "match_class": "highway",
+    "match_type": "primary"
+  },
+  "Avenida Doctor Galvez Ginachero and . Don Juan de Austria, Málaga, Spain": {
+    "lat": 36.7268271,
+    "lon": -4.4277547,
+    "quality": "low",
+    "method": "first_street_of_intersection",
+    "matched_address": "Avenida Doctor Gálvez Ginachero, La Trinidad (Centro), La Trinidad, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29009, España",
+    "match_class": "highway",
+    "match_type": "tertiary"
+  },
+  "Avenida Navarro Ledesma, Málaga, Spain": {
+    "lat": null,
+    "lon": null,
+    "quality": "failed",
+    "method": "none",
+    "matched_address": null,
+    "match_class": null,
+    "match_type": null
+  }
+}
